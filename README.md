@@ -21,8 +21,10 @@
 
 <!-- Quick Stats - Rounded -->
 <p align="center">
-  <img src="https://img.shields.io/badge/⭐_Stars-1-ffd700?style=plastic" alt="Stars">
-  <img src="https://img.shields.io/badge/🍴_Forks-0-ff6b6b?style=plastic" alt="Forks">
+  <img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=plastic&label=⭐%20Stars&color=ffd700" alt="Stars">
+  <img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=plastic&label=🍴%20Forks&color=ff6b6b" alt="Forks">
+  <img src="https://img.shields.io/github/watchers/VexCrux/Nothing.Expansion?style=plastic&label=👁%20Watchers&color=4ecdc4" alt="Watchers">
+</p>
   <img src="https://img.shields.io/badge/📥_Downloads-2-4ecdc4?style=plastic" alt="Downloads">
 </p>
 
