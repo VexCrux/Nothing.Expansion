@@ -19,19 +19,19 @@
 <p align="center"><b>Advanced Browser Privacy & Digital Fingerprint Management</b></p>
 <p align="center"><i>Продвинутая защита конфиденциальности и управление цифровым отпечатком браузера</i></p>
 
-<!-- Quick Stats - Dynamic -->
+<!-- Quick Stats - Plastic (Rounded) -->
 <p align="center">
   <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers">
-    <img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Stars&color=0138b7" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Stars" alt="Stars"/>
   </a>
   <a href="https://github.com/VexCrux/Nothing.Expansion/network/members">
-    <img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Forks&color=3d53d7" alt="Forks"/>
+    <img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Forks" alt="Forks"/>
   </a>
   <a href="https://github.com/VexCrux/Nothing.Expansion/releases">
-    <img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?style=plastic&logo=github&label=Downloads&color=5372e0" alt="Downloads"/>
+    <img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?style=plastic&logo=github&label=Downloads" alt="Downloads"/>
   </a>
-  <img src="https://img.shields.io/github/last-commit/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Last%20Commit&color=2ea44f" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/license/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=License&color=a1b9f6" alt="License"/>
+  <img src="https://img.shields.io/github/last-commit/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Last+Commit" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/license/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=License" alt="License"/>
 </p>
 
 <!-- Quick Navigation -->
