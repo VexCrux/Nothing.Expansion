@@ -22,17 +22,16 @@
 <!-- Quick Stats - Dynamic -->
 <p align="center">
   <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers">
-    <img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion.svg?style=for-the-badge&logo=github&label=Stars&color=ffd700" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Stars&color=0138b7" alt="Stars"/>
   </a>
   <a href="https://github.com/VexCrux/Nothing.Expansion/network/members">
-    <img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion.svg?style=for-the-badge&logo=github&label=Forks&color=ff6b6b" alt="Forks"/>
-  </a>
-  <a href="https://github.com/VexCrux/Nothing.Expansion/watchers">
-    <img src="https://img.shields.io/github/watchers/VexCrux/Nothing.Expansion.svg?style=for-the-badge&logo=github&label=Watchers&color=4ecdc4" alt="Watchers"/>
+    <img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Forks&color=3d53d7" alt="Forks"/>
   </a>
   <a href="https://github.com/VexCrux/Nothing.Expansion/releases">
-    <img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total.svg?style=for-the-badge&logo=github&label=Downloads&color=4ecdc4" alt="Downloads"/>
+    <img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?style=plastic&logo=github&label=Downloads&color=5372e0" alt="Downloads"/>
   </a>
+  <img src="https://img.shields.io/github/last-commit/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Last%20Commit&color=2ea44f" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/license/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=License&color=a1b9f6" alt="License"/>
 </p>
 
 <!-- Quick Navigation -->
