@@ -21,20 +21,25 @@
 
 <!-- Quick Stats - Dynamic -->
 <p align="center">
-  <!-- Stars -->
   <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers">
-    <img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion.svg?style=for-the-badge&logo=github&label=%E2%AD%90%20Stars&color=ffd700" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion.svg?style=for-the-badge&logo=github&label=Stars&color=ffd700" alt="Stars"/>
   </a>
-  
-  <!-- Forks -->
   <a href="https://github.com/VexCrux/Nothing.Expansion/network/members">
-    <img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion.svg?style=for-the-badge&logo=github&label=%F0%9F%8D%B4%20Forks&color=ff6b6b" alt="Forks"/>
+    <img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion.svg?style=for-the-badge&logo=github&label=Forks&color=ff6b6b" alt="Forks"/>
   </a>
-  
-  <!-- Watchers -->
   <a href="https://github.com/VexCrux/Nothing.Expansion/watchers">
-    <img src="https://img.shields.io/github/watchers/VexCrux/Nothing.Expansion.svg?style=for-the-badge&logo=github&label=%F0%9F%91%81%EF%B8%8F%20Watchers&color=4ecdc4" alt="Watchers"/>
+    <img src="https://img.shields.io/github/watchers/VexCrux/Nothing.Expansion.svg?style=for-the-badge&logo=github&label=Watchers&color=4ecdc4" alt="Watchers"/>
   </a>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/releases">
+    <img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total.svg?style=for-the-badge&logo=github&label=Downloads&color=4ecdc4" alt="Downloads"/>
+  </a>
+</p>
+
+<!-- Quick Navigation -->
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#installation">Install</a> •
+  <a href="#timezone-showcase">Timezones</a> 
 </p>
 
 <!-- Quick Navigation -->
