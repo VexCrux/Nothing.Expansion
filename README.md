@@ -19,12 +19,22 @@
 <p align="center"><b>Advanced Browser Privacy & Digital Fingerprint Management</b></p>
 <p align="center"><i>Продвинутая защита конфиденциальности и управление цифровым отпечатком браузера</i></p>
 
-<!-- Quick Stats - Rounded -->
+<!-- Quick Stats - Dynamic -->
 <p align="center">
-  <img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=plastic&label=⭐%20Stars&color=ffd700" alt="Stars">
-  <img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=plastic&label=🍴%20Forks&color=ff6b6b" alt="Forks">
-  <img src="https://img.shields.io/github/watchers/VexCrux/Nothing.Expansion?style=plastic&label=👁%20Watchers&color=4ecdc4" alt="Watchers">
-  <img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?style=plastic&label=📥%20Downloads&color=4ecdc4" alt="Downloads">
+  <!-- Stars -->
+  <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers">
+    <img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion.svg?style=for-the-badge&logo=github&label=%E2%AD%90%20Stars&color=ffd700" alt="Stars"/>
+  </a>
+  
+  <!-- Forks -->
+  <a href="https://github.com/VexCrux/Nothing.Expansion/network/members">
+    <img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion.svg?style=for-the-badge&logo=github&label=%F0%9F%8D%B4%20Forks&color=ff6b6b" alt="Forks"/>
+  </a>
+  
+  <!-- Watchers -->
+  <a href="https://github.com/VexCrux/Nothing.Expansion/watchers">
+    <img src="https://img.shields.io/github/watchers/VexCrux/Nothing.Expansion.svg?style=for-the-badge&logo=github&label=%F0%9F%91%81%EF%B8%8F%20Watchers&color=4ecdc4" alt="Watchers"/>
+  </a>
 </p>
 
 <!-- Quick Navigation -->
