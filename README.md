@@ -43,20 +43,6 @@
 
 <!-- Quick Navigation -->
 <p align="center">
-  <a href="#-features--возможности">Features</a> •
-  <a href="#-installation--установка">Install</a> •
-  <a href="#-timezone-showcase--часовые-пояса">Timezones</a>
-</p>
-
-<!-- Quick Navigation -->
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#installation">Install</a> •
-  <a href="#timezone-showcase">Timezones</a> 
-</p>
-
-<!-- Quick Navigation -->
-<p align="center">
   <a href="#-features--возможности">✨ Features</a> •
   <a href="#-installation--установка">🚀 Install</a> •
   <a href="#-timezone-showcase--часовые-пояса">🌍 Timezones</a> 
