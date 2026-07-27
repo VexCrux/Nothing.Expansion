@@ -24,16 +24,14 @@
   <img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=plastic&label=⭐%20Stars&color=ffd700" alt="Stars">
   <img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=plastic&label=🍴%20Forks&color=ff6b6b" alt="Forks">
   <img src="https://img.shields.io/github/watchers/VexCrux/Nothing.Expansion?style=plastic&label=👁%20Watchers&color=4ecdc4" alt="Watchers">
-</p>
-  <img src="https://img.shields.io/badge/📥_Downloads-2-4ecdc4?style=plastic" alt="Downloads">
+  <img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?style=plastic&label=📥%20Downloads&color=4ecdc4" alt="Downloads">
 </p>
 
-<!-- Quick Stats - Rounded -->
+<!-- Quick Navigation -->
 <p align="center">
-  <img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=plastic&label=⭐%20Stars&color=ffd700" alt="Stars">
-  <img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=plastic&label=🍴%20Forks&color=ff6b6b" alt="Forks">
-  <img src="https://img.shields.io/github/watchers/VexCrux/Nothing.Expansion?style=plastic&label=👁%20Watchers&color=4ecdc4" alt="Watchers">
-  <img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?style=plastic&label=📥%20Downloads&color=4ecdc4" alt="Downloads">
+  <a href="#-features--возможности">✨ Features</a> •
+  <a href="#-installation--установка">🚀 Install</a> •
+  <a href="#-timezone-showcase--часовые-пояса">🌍 Timezones</a> 
 </p>
 
 </div>
