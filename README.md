@@ -19,6 +19,13 @@
 <p align="center"><b>Advanced Browser Privacy & Digital Fingerprint Management</b></p>
 <p align="center"><i>Продвинутая защита конфиденциальности и управление цифровым отпечатком браузера</i></p>
 
+<!-- Author -->
+<p align="center">
+  <a href="https://github.com/VexCrux">
+    <img src="https://img.shields.io/badge/by-Crux-3d53d7?style=plastic&logo=github&logoColor=white" alt="Crux"/>
+  </a>
+</p>
+
 <!-- Quick Stats - Plastic (Rounded) -->
 <p align="center">
   <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers">
@@ -32,6 +39,13 @@
   </a>
   <img src="https://img.shields.io/github/last-commit/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Last+Commit" alt="Last Commit"/>
   <img src="https://img.shields.io/github/license/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=License" alt="License"/>
+</p>
+
+<!-- Quick Navigation -->
+<p align="center">
+  <a href="#-features--возможности">Features</a> •
+  <a href="#-installation--установка">Install</a> •
+  <a href="#-timezone-showcase--часовые-пояса">Timezones</a>
 </p>
 
 <!-- Quick Navigation -->
