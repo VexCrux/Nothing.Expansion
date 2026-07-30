@@ -38,7 +38,6 @@
     <img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?style=plastic&logo=github&label=Downloads" alt="Downloads"/>
   </a>
   <img src="https://img.shields.io/github/last-commit/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Last+Commit" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/license/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=License" alt="License"/>
 </p>
 
 <!-- Quick Navigation -->
