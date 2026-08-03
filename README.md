@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white&style=plastic" alt="Chrome">
   <img src="https://img.shields.io/badge/Edge-Extension-0078D7?logo=microsoftedge&logoColor=white&style=plastic" alt="Edge">
   <img src="https://img.shields.io/badge/Brave-Extension-FB542B?logo=brave&logoColor=white&style=plastic" alt="Brave">
-  <img src="https://img.shields.io/badge/Version-0.2.2-3d53d7?style=plastic" alt="Version">
-  <img src="https://img.shields.io/badge/Status-Beta-FB542B?style=plastic" alt="Status">
+  <img src="https://img.shields.io/badge/Version-0.2.3-3d53d7?style=plastic" alt="Version">
+  <img src="https://img.shields.io/badge/Status-Stable-2ea44f?style=plastic" alt="Status">
 </p>
 
 <!-- Description -->
@@ -62,19 +62,19 @@
 
 ## ✨ Features / Возможности
 
-### 📊 Traffic Monitor — Реальный мониторинг трафика
+### 📊 Traffic Monitor — Мониторинг трафика в реальном времени
 
-> Встроенная панель статистики вкладки в реальном времени.
+> Встроенная панель статистики по активной вкладке с детальными метриками.
 
 | Metric / Метрика | EN Description | RU Описание |
 |---|---|---|
 | **Domain** | Current tab domain being monitored | Текущий домен активной вкладки |
-| **Requests** | Total HTTP requests count | Общее количество HTTP-запросов |
-| **Packet Loss** | Percentage of lost/blocked packets | Процент потерь и заблокированных пакетов |
-| **Traffic Volume** | Data transferred (KB/MB) | Объём переданных данных (КБ/МБ) |
-| **Blocked Trackers** | Count of tracker scripts blocked | Количество заблокированных трекеров |
-| **Session Timer** | Active protection duration | Время активной защиты сессии |
-| **Total Protected** | Cumulative protection time | Общее время под защитой |
+| **Requests** | Total HTTP requests count (e.g., 286) | Общее количество HTTP-запросов |
+| **Packet Loss** | Percentage of blocked packets (e.g., 0%) | Процент заблокированных пакетов |
+| **Traffic Volume** | Data transferred (e.g., 1.85 MB) | Объём переданных данных (КБ/МБ) |
+| **Blocked Trackers** | Count of tracker scripts blocked (e.g., 0) | Количество заблокированных трекеров |
+| **Session Timer** | Active protection duration (e.g., 0h 27m 15s) | Время активной защиты сессии |
+| **Total Protected** | Cumulative protection time (e.g., 6h 24m) | Общее время под защитой |
 
 ---
 
@@ -83,54 +83,100 @@
 | # | 🏷️ Feature (EN) | 🏷️ Возможность (RU) | Status | 📋 Description / Описание |
 |---|------------------|----------------------|--------|---------------------------|
 | 1 | **Master Toggle** | **Общий выключатель** | ✅ | Instant on/off switch. Settings bypass browser service pages. / Мгновенное включение/выключение. Настройки не действуют на служебных страницах браузера. |
-| 2 | **Browser Identification** | **Идентификация браузера** | ✅ | Spoofs User-Agent, platform, and OS simultaneously. Selectable profiles: Windows 11 · Chrome, macOS · Safari, Linux · Firefox and more. / Подменяет User-Agent, платформу и ОС одновременно. Выбор профилей: Windows 11 · Chrome, macOS · Safari, Linux · Firefox и другие. |
-| 3 | **System Spoofing** | **Подмена системы** | ✅ | Simultaneously spoofs User-Agent + platform + WebGL renderer string. / Одновременная подмена User-Agent + платформы + строки WebGL-рендерера. |
+| 2 | **Browser Identification** | **Идентификация браузера** | ✅ | Spoofs User-Agent, platform, and OS simultaneously. / Одновременная подмена User-Agent + платформы + ОС. |
+| 3 | **System Profiles** | **Профили систем** | ✅ | Selectable profiles: Windows 11 · Chrome, Windows 10 · Chrome, macOS · Chrome, Linux · Chrome. Plus custom profile builder (beta). / Выбор профилей: Windows 11, 10, macOS, Linux + конструктор своей системы (бета). |
 | 4 | **Hardware Parameters** | **Аппаратные параметры** | ✅ | Masks hardware-level browser metrics: CPU cores, device memory, etc. / Маскировка аппаратных данных: ядра CPU, память устройства и др. |
-| 5 | **Screen Resolution** | **Разрешение экрана** | ✅ | Changes only `screen.width`/`screen.height` for fingerprinting — doesn't resize the window, so site layout stays intact. / Меняет только `screen.width`/`screen.height` (для фингерпринта) — не трогает размер окна, поэтому вёрстка не ломается. |
-| 6 | **Canvas & Audio Noise** | **Canvas/Audio шум** | ✅ | Injects subtle randomization into Canvas and AudioContext APIs to prevent fingerprinting without breaking sites. / Добавляет рандомизацию в Canvas и AudioContext API для защиты от фингерпринтинга без поломки сайтов. |
-| 7 | **Adaptive Noise Aggression** | **Адаптивная агрессия шума** | ✅ | Dynamically scales noise intensity based on how aggressively a site attempts fingerprinting. / Динамически масштабирует интенсивность шума в зависимости от агрессивности трекеров на сайте. |
+| 5 | **Screen Resolution** | **Разрешение экрана** | ✅ | Changes only `screen.width`/`screen.height` — doesn't resize the window, so site layout stays intact. / Меняет только `screen.width`/`screen.height` — не трогает размер окна, вёрстка не ломается. |
+| 6 | **Canvas & Audio Noise** | **Canvas/Audio шум** | ✅ | Injects randomization into Canvas and AudioContext APIs with unique identifier hash per site. / Рандомизация Canvas и AudioContext API с уникальным хэшем подписи на сайт. |
+| 7 | **Adaptive Noise Aggression** | **Адаптивная агрессия шума** | ⚠️ | Dynamically scales noise intensity based on tracker activity. Can be enabled/disabled. / Динамически масштабирует интенсивность шума при активности трекеров. |
 | 8 | **Real-time WebGL Spoofing** | **Подмена WebGL (real-time)** | ✅ | Spoofs WebGL renderer and vendor strings in real-time. / Подменяет строки рендерера и вендора WebGL в реальном времени. |
-| 9 | **Anti-fraud / Geo-tracker Blocking** | **Блокировка антифрод/geo-трекеров** | ✅ | Blocks known anti-fraud and geographic tracking scripts. / Блокирует известные антифрод-скрипты и гео-трекеры. |
-| 10 | **WebRTC IP-Leak Block** | **Блокировка WebRTC IP-leak** | ✅ | Prevents real IP leaks via WebRTC with per-site whitelist support. / Блокирует утечку реального IP через WebRTC с поддержкой белого списка сайтов. |
-| 11 | **Timezone Spoofing** | **Подмена часового пояса** | ⚠️ Beta | Spoof timezone to any location, or auto-sync with your IP. Known issue: minor UI alignment bugs in the timezone selector field. / Подмена таймзоны под любую локацию или автонастройка по IP. Известный баг: небольшое смещение элементов в поле выбора часового пояса. |
-| 12 | **TURN Server Configuration** | **Настройка TURN-сервера** | ⚠️ Beta | Custom TURN server for WebRTC relay. Warning dialog appears when all fields are filled. Known issue: dialog timing needs refinement. / Пользовательский TURN-сервер для WebRTC-ретрансляции. Диалог предупреждения при заполнении всех полей. Известный баг: тайминг диалога требует доработки. |
+| 9 | **Anti-fraud / Geo-tracker Blocking** | **Блокировка антифрод/geo-трекеров** | ✅ | Blocks known anti-fraud and geographic tracking scripts. / Блокирует антифрод-скрипты и гео-трекеры. |
+| 10 | **Hide Yandex Promo-blocks** | **Скрыть промо-блоки Яндекса** | ✅ | Cosmetic filter for known Yandex ad classes — not network-level blocking. / Косметический фильтр по известным классам рекламы Яндекса — не сетевая блокировка. |
+| 11 | **WebRTC IP-Leak Block** | **Блокировка WebRTC IP-leak** | ✅ | Prevents real IP leaks via WebRTC with per-site whitelist support. / Блокирует утечку реального IP через WebRTC с белым списком сайтов. |
+| 12 | **Timezone Spoofing** | **Подмена часового пояса** | ✅ | Spoof timezone with live clock display (HH:MM:SS). Auto-sync with IP available. / Подмена таймзоны с живыми часами (ЧЧ:ММ:СС). Автонастройка по IP доступна. |
+| 13 | **TURN Server Configuration** | **Настройка TURN-сервера** | ✅ | Custom TURN server for WebRTC relay. Warning dialog confirms user trust before activation. / Пользовательский TURN-сервер. Диалог подтверждения доверия перед активацией. |
+| 14 | **Do Not Track / Cookies** | **Do Not Track / Cookies** | ⚠️ | Sends DNT signal when enabled. Disabled by default to avoid fingerprinting. / Отправляет сигнал DNT при включении. Выключено по умолчанию. |
 
 ---
 
-### 🔍 Anonymity Check — Проверка анонимности
+### 🔍 Compatibility Tab — Вкладка совместимости
 
-> Built-in fingerprint verification panel showing what your browser actually exposes to websites.
+> Реальный сканер установленных расширений с версиями и анализом потенциальных конфликтов.
 
 <details>
-<summary>📖 What is checked / Что проверяется</summary>
+<summary>📖 Как это работает / How it works</summary>
 
-| Check / Проверка | Description / Описание |
-|---|---|
-| **User-Agent** | Is your UA spoofed correctly? / Корректно ли подменён UA? |
-| **Platform** | Does navigator.platform match spoofed OS? / Соответствует ли platform подменённой ОС? |
-| **WebGL Renderer** | Is GPU info masked? / Скрыта ли информация о GPU? |
-| **Canvas Fingerprint** | Is canvas noise applied? / Применён ли шум canvas? |
-| **Audio Fingerprint** | Is audio context randomized? / Рандомизирован ли AudioContext? |
-| **WebRTC** | Is real IP leaking? / Утечка реального IP? |
-| **Timezone** | Does timezone match IP geolocation? / Соответствует ли часовой пояс IP-геолокации? |
-| **Screen Resolution** | Is screen resolution spoofed? / Подменено ли разрешение? |
-| **Hardware Concurrency** | Is CPU core count masked? / Скрыто ли количество ядер? |
-| **Device Memory** | Is RAM info spoofed? / Подменена ли информация о RAM? |
+Nothing сканирует браузер и отображает информацию о других установленных расширениях для приватности:
+
+| Detected Extension / Расширение | Version | Status | Notes / Примечания |
+|---|---|---|---|
+| **Brave 151** | Built-in | ℹ️ | Brave имеет встроенные Shields — экран фингерпринтинга и блокировка рекламы/трекеров. Nothing работает поверх него независимо. / Brave has built-in Shields — fingerprinting and ad/tracker blocking at browser level. Nothing works independently on top of it. |
+| **uBlock Origin** | v1.72.2 | ✅ Compatible | Fast and effective browser blocker. / Быстрый и эффективный блокировщик. |
+| **Decentraleyes** | v3.0.1 | ✅ Compatible | Protects from tracking via "free" centralized CDNs. / Защищает от отслеживания через бесплатные CDN. |
+| **Privacy Badger** | v2026.6.16 | ✅ Compatible | Automatically learns to block hidden trackers by EFF. / Автоматически обучается блокировать скрытые трекеры от EFF. |
+
+> **EN:** Nothing cannot see exactly what another extension does on a page — browsers don't give such access. If similar tools are active nearby, Nothing treats cookies and CDN-spoofing carefully on this page to avoid conflicts.
+>
+> **RU:** Nothing не может видеть, что именно делает другое расширение на странице — браузер не даёт такого доступа. Если рядом активны похожие инструменты, Nothing аккуратнее относится к кукам и CDN-подмене на этой странице, чтобы не спорить с ними и не сломать сайт.
 
 </details>
 
 ---
 
-### 🔄 Compatibility Tab — Вкладка совместимости
+### 🌐 Timezone Showcase — Выбор часового пояса
 
-> Extension compatibility checker — detects other installed privacy extensions and identifies potential conflicts.
+> Огромная база часовых поясов с отображением текущего времени.
 
-| Feature / Функция | Status | Description / Описание |
-|---|---|---|
-| **Extension Detection** | 🔜 Planned | Detect installed extensions (uBlock Origin, Privacy Badger, Decentraleyes, WebRTC disablers, etc.) |
-| **Conflict Analysis** | 🔜 Planned | Identify duplicate protections and recommend which to keep |
-| **Version Display** | 🔜 Planned | Show detected extension versions |
-| **Auto-Repair** | 🔜 Planned | Attempt automatic conflict resolution; stop after 2 failed attempts; continue blocking site-originated threats regardless |
+<div align="center">
+
+| 🇷🇺 Россия | 🌆 City | 🕐 Timezone ID |
+| :--- | :--- | :--- |
+| ru | Москва | `Europe/Moscow` |
+| ru | Калининград | `Europe/Kaliningrad` |
+| ru | Екатеринбург | `Asia/Yekaterinburg` |
+| ru | Новосибирск | `Asia/Novosibirsk` |
+| ru | Владивосток | `Asia/Vladivostok` |
+
+| 🇧🇾 Беларусь | 🌆 City | 🕐 Timezone ID |
+| :--- | :--- | :--- |
+| by | Минск | `Europe/Minsk` |
+
+| 🇬🇧 Europe | 🌆 City | 🕐 Timezone ID |
+| :--- | :--- | :--- |
+| gb | Лондон | `Europe/London` |
+| de | Берлин | `Europe/Berlin` |
+| fr | Париж | `Europe/Paris` |
+| es | Мадрид | `Europe/Madrid` |
+| it | Рим | `Europe/Rome` |
+| nl | Амстердам | `Europe/Amsterdam` |
+| pl | Варшава | `Europe/Warsaw` |
+
+| 🇹🇷 Asia | 🌆 City | 🕐 Timezone ID |
+| :--- | :--- | :--- |
+| tr | Стамбул | `Europe/Istanbul` |
+| ae | Дубай | `Asia/Dubai` |
+| sg | Сингапур | `Asia/Singapore` |
+| in | Дели | `Asia/Kolkata` |
+
+| 🇺🇸 Americas | 🌆 City | 🕐 Timezone ID |
+| :--- | :--- | :--- |
+| us | Нью-Йорк (вост.) | `America/New_York` |
+| us | Чикаго (центр.) | `America/Chicago` |
+| us | Лос-Анджелес (зап.) | `America/Los_Angeles` |
+| ca | Торонто | `America/Toronto` |
+
+| 🌎 Other | 🌆 City | 🕐 Timezone ID |
+| :--- | :--- | :--- |
+| br | Сан-Паулу | `America/Sao_Paulo` |
+| au | Сидней | `Australia/Sydney` |
+
+<br>
+
+> 🔄 **Live Clock Display** — Each timezone shows the current time in HH:MM:SS format instantly.
+> 
+> 🔄 **Автонастройка по реальному IP** — Автоматически определит часовой пояс вашего текущего IP и выставит его. Так рассинхрон станет невозможен в принципе.
+
+</div>
 
 ---
 
@@ -149,29 +195,6 @@
 
 ---
 
-## 🌍 Timezone Showcase / Часовые пояса
-
-<div align="center">
-
-| 🌍 Region / Регион | 🌆 City / Город | 📝 Location Details / Описание локации |
-| :--- | :--- | :--- |
-| 🇺🇸 **Americas** | `America/New_York` | East Coast USA Time / Время восточного побережья США |
-| 🇬🇧 **Europe** | `Europe/London` | Greenwich Mean Time (GMT) / Среднее время по Гринвичу |
-| 🇷🇺 **Europe** | `Europe/Moscow` | Moscow Standard Time (MSK) / Московское стандартное время |
-| 🇯🇵 **Asia** | `Asia/Tokyo` | Japan Standard Time (JST) / Стандартное время Японии |
-| 🇦🇪 **Asia** | `Asia/Dubai` | Gulf Standard Time (GST) / Стандартное время Персидского залива |
-| 🌐 **Global** | **+ 50 More...** | **And many more... / И многие другие...** |
-
-<br>
-
-> 🔄 **Auto-detect from IP** — Automatically sync your timezone with your real IP location to avoid detection.
->
-> 🔄 **Автонастройка по реальному IP** — Автоматически определит часовой пояс вашего текущего IP и выставит его. Так рассинхрон станет невозможен в принципе.
-
-</div>
-
----
-
 ## 🗺️ Roadmap / Планы развития
 
 <div align="center">
@@ -180,21 +203,23 @@
 |:------:|---|
 | ✅ | Traffic monitor with real-time stats |
 | ✅ | User-Agent / Platform / WebGL spoofing |
-| ✅ | Canvas & Audio fingerprint noise |
-| ✅ | Adaptive noise aggression |
+| ✅ | System profiles (Win 10/11, macOS, Linux) |
+| ✅ | Canvas & Audio fingerprint noise with unique hash |
+| ✅ | Adaptive noise aggression (toggle available) |
 | ✅ | WebRTC IP-leak prevention + whitelist |
-| ✅ | Timezone spoofing + IP auto-sync |
-| ✅ | TURN server configuration |
-| ✅ | Built-in anonymity check panel |
-| 🔧 | Fix timezone field UI alignment |
-| 🔧 | Fix TURN server warning dialog timing |
-| 🔧 | Remove "(обновлено)" badge from Fingerprint section |
-| 🔜 | Compatibility tab: detect installed extensions |
-| 🔜 | Compatibility tab: version display for detected extensions |
+| ✅ | Timezone spoofing with live clock display |
+| ✅ | IP auto-sync for timezone matching |
+| ✅ | TURN server configuration with confirmation dialog |
+| ✅ | Compatibility tab with extension detection |
+| ✅ | Version display for detected extensions |
+| ✅ | Brave Shields integration notice |
+| ✅ | Yandex promo-block cosmetic filter |
 | 🔜 | Activity logs panel with filtering |
-| 🔜 | Auto-repair engine (max 2 attempts, then stop) |
+| 🔜 | Custom profile builder completion |
+| 🔜 | Auto-repair engine |
 | 🔜 | OS icon spoofing (Windows version fingerprint) |
 | 🔜 | Smooth tab transitions (Трафик ↔ Совместимость) |
+| 🔜 | Extended timezone list (+ 50 more cities) |
 
 </div>
 
@@ -220,23 +245,30 @@
 
 | 🔒 Feature / Функция | 🎯 Why It Matters / Зачем это нужно |
 |----------------------|--------------------------------------|
-| **Canvas & Audio Noise** | Adds subtle randomization to prevent fingerprinting without breaking sites. / Добавляет рандомизацию для защиты от фингерпринтинга без поломки сайтов. |
+| **Canvas & Audio Noise** | Unique hash per site prevents fingerprinting without breaking sites. / Уникальный хэш на сайт предотвращает фингерпринтинг без поломки сайтов. |
 | **WebRTC IP-Leak Block** | Essential for VPN users — stops real IP leaks during P2P connections. / Критично для VPN-пользователей — блокирует утечку IP в P2P-соединениях. |
+| **Auto Timezone Sync** | Eliminates timezone/IP mismatch. A mismatch exposes you stronger than having no spoofing at all. / Рассинхрон выдаст вас сильнее, чем отсутствие подмены. |
 | **Adaptive Aggression** | Scales protection based on how aggressively a site tries to fingerprint you. / Масштабирует агрессивность шума в зависимости от трекеров на сайте. |
-| **Auto Timezone Sync** | Eliminates timezone/IP mismatch. A mismatch exposes you stronger than having no spoofing at all. / Подмена должна совпадать с реальным IP (или VPN), иначе рассинхрон выдаст вас сильнее, чем отсутствие подмены. |
-| **TURN Server Relay** | Routes WebRTC through a trusted relay, hiding your real IP even from STUN requests. / Маршрутизирует WebRTC через доверенный релей, скрывая реальный IP даже от STUN-запросов. |
+| **Compatible Coexistence** | Works alongside uBlock Origin, Privacy Badger, Decentraleyes without conflicts. / Работает вместе с другими расширениями без конфликтов. |
 
 ---
 
 ## 📝 Changelog / История изменений
 
-### v0.2.2 (Current — Beta)
+### v0.2.3 (Current — Stable)
+- ✅ Added live clock display for timezone spoofing (HH:MM:SS)
+- ✅ Added compatibility tab with real extension scanning
+- ✅ Added version display for detected extensions (uBlock Origin v1.72.2, etc.)
+- ✅ Added Brave 151 detection with Shields integration notice
+- ✅ Expanded timezone database (Moscow, Kaliningrad, Yekaterinburg, Novosibirsk, Vladivostok, Minsk, London, Berlin, Paris, Madrid, Rome, Amsterdam, Warsaw, Istanbul, Dubai, Singapore, Delhi, New York, Chicago, Los Angeles, Toronto, São Paulo, Sydney)
+- ✅ Added custom profile builder (beta-test option)
+- ⚠️ Adaptive noise aggression is now toggleable (can be enabled/disabled)
+
+### v0.2.2
 - ✅ Added TURN server configuration panel
 - ✅ Added built-in anonymity check (fingerprint verification)
 - ✅ Added adaptive noise aggression slider
 - ✅ Improved traffic monitor with session timer
-- ⚠️ Known issue: timezone field UI alignment
-- ⚠️ Known issue: TURN server warning dialog timing
 
 ### v0.2.1
 - ✅ Added timezone spoofing with IP auto-sync
