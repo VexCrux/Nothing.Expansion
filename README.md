@@ -7,20 +7,27 @@
 </p>
 
 <!-- Browser Support -->
+<!--
+  VexCrux/Nothing.Expansion - Browser Support
+  Styling: Flat-Square, Monochrome Icons
+-->
+
 <p align="center">
-  <a href="https://github.com/VexCrux/Nothing.Expansion/releases">
-    <img src="https://img.shields.io/badge/🔶_v0.2.3-grey?style=for-the-badge&logo=github&logoColor=white" alt="Version"/>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/releases/latest">
+    <img src="https://img.shields.io/github/v/release/VexCrux/Nothing.Expansion?color=737373&label=Version&logo=github&style=flat-square" alt="GitHub Release">
   </a>
-  <img src="https://img.shields.io/badge/✅_STABLE-green?style=for-the-badge" alt="Stable"/>
-</p>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/CHROME-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome"></a>
-  <a href="#"><img src="https://img.shields.io/badge/BRAVE-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Brave"></a>
-  <a href="#"><img src="https://img.shields.io/badge/EDGE-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Edge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/VIVALDI-FA6400?style=for-the-badge&logo=vivaldi&logoColor=white" alt="Vivaldi"></a>
-  <a href="#"><img src="https://img.shields.io/badge/OPERA-EF3939?style=for-the-badge&logo=opera&logoColor=white" alt="Opera"></a>
+  <img src="https://img.shields.io/badge/Status-Stable-brightgreen?style=flat-square&logo=circleci&logoColor=white" alt="Stability: Stable">
 </p>
 
+<br>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Supported%20by-Chrome-blue?style=flat-square&logo=google-chrome&logoColor=fff" alt="Chrome"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Brave-ff0039?style=flat-square&logo=brave&logoColor=fff" alt="Brave"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Edge-0078d7?style=flat-square&logo=microsoft-edge&logoColor=fff" alt="Edge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Vivaldi-a01c2c?style=flat-square&logo=vivaldi&logoColor=fff" alt="Vivaldi"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Opera-ff1b2d?style=flat-square&logo=opera&logoColor=fff" alt="Opera"></a>
+</p>
 <!-- Author -->
 <p align="center">
   <img src="https://github.com/VexCrux.png" width="100" style="border-radius: 25px;" alt="VexCrux"/><br>
