@@ -28,7 +28,6 @@
   <strong>VexCrux</strong><br><br>
   <a href="https://github.com/VexCrux">
     <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=plastic&logo=github&logoColor=white" alt="@VexCrux">
-  </a>
   <a href="https://steamcommunity.com/profiles/76561199475056100/">
     <img src="https://img.shields.io/badge/@VexCrux-1b2838?style=plastic&logo=steam&logoColor=white" alt="@VexCrux">
   </a>
