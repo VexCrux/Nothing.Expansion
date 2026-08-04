@@ -15,29 +15,17 @@
   <img src="https://img.shields.io/badge/Status-Stable-2ea44f?style=plastic" alt="Status">
 </p>
 
-<!-- Description -->
-<p align="center"><b>Advanced Browser Privacy & Digital Fingerprint Management</b></p>
-<p align="center"><i>Продвинутая защита конфиденциальности и управление цифровым отпечатком браузера</i></p>
-
 <!-- Author -->
 <p align="center">
-  <a href="https://github.com/VexCrux">
-    <img src="https://img.shields.io/badge/by-VexCrux-3d53d7?style=plastic&logo=github&logoColor=white" alt="VexCrux"/>
-  </a>
+  <a href="https://github.com/VexCrux"><img src="https://img.shields.io/badge/GitHub-VexCrux-3d53d7?style=for-the-badge&logo=github&logoColor=white" alt="VexCrux"/></a>
 </p>
 
 <!-- Quick Stats -->
 <p align="center">
-  <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers">
-    <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=social" alt="Star"></a>
-  </a>
-  <a href="https://github.com/VexCrux/Nothing.Expansion/network/members">
-    <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=social" alt="Forks"></a>
-  </a>
-  <a href="https://github.com/VexCrux/Nothing.Expansion/releases">
-    <img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?style=plastic&logo=github&label=Downloads" alt="Downloads"/>
-  </a>
-  <img src="https://img.shields.io/github/last-commit/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Last+Commit" alt="Last Commit"/>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=social" alt="Stars"></a>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/network/members"><img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=social" alt="Forks"></a>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/releases"><img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?style=social&logo=github" alt="Downloads"></a>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/commits/main"><img src="https://img.shields.io/github/last-commit/VexCrux/Nothing.Expansion?style=social&logo=github" alt="Last Commit"></a>
 </p>
 
 <!-- Quick Navigation -->
