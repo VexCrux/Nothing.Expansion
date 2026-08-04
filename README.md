@@ -7,12 +7,21 @@
 </p>
 
 <!-- Browser Support -->
+<br>
+<h3 align="center">🚀 Поддержка браузеров и статус проекта</h3>
+<br>
 <p align="center">
-  <a href="https://github.com/VexCrux/Nothing.Expansion/releases">
-    <img src="https://img.shields.io/badge/🔶_v0.2.3-grey?style=for-the-badge&logo=github&logoColor=white" alt="Version"/>
-  </a>
-  <img src="https://img.shields.io/badge/✅_STABLE-green?style=for-the-badge" alt="Stable"/>
+<!-- Версия -->
+<a href="https://github.com/VexCrux/Nothing.Expansion/releases/latest">
+<img src="https://img.shields.io/badge/Версия-v0.2.3-blueviolet?style=for-the-badge&logo=SemVer&logoColor=white" alt="Текущая версия"/>
+</a>
+<!-- Стабильность -->
+<img src="https://img.shields.io/badge/Статус-Стабильный-brightgreen?style=for-the-badge&logo= பாது" alt="Статус проекта"/>
+<!-- Лицензия (Рекомендуется добавить) -->
+<img src="https://img.shields.io/github/license/VexCrux/Nothing.Expansion?style=for-the-badge&color=informational" alt="Лицензия"/>
 </p>
+<br>
+<div align="center">
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/CHROME-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome"></a>
