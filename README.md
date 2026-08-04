@@ -20,13 +20,13 @@
   <!-- БЛОК 2: Браузеры с долей рынка (Сжатый для устранения багов) -->
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1px;">
     <!-- Chrome -->
-    <a href="#" title="Chrome Web Store" style="text-decoration: none;"><img src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white&style=plastic" alt="Chrome"><img src="https://img.shields.io/badge/~65%25-4285F4?style=plastic" alt="65% market share"></a>
+    <a href="#" title="Chrome Web Store" style="text-decoration: none;"><img src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white&style=plastic" alt="Chrome"><img src="https://img.shields.io/badge/~65%25-4285F4?style=plastic" alt="65% User market share"></a>
     <!-- Edge -->
-    <a href="#" title="Edge Add-ons" style="text-decoration: none;"><img src="https://img.shields.io/badge/Edge-0078d7?logo=microsoft-edge&logoColor=white&style=plastic" alt="Edge"><img src="https://img.shields.io/badge/~5%25-0078d7?style=plastic" alt="5% market share"></a>
+    <a href="#" title="Edge Add-ons" style="text-decoration: none;"><img src="https://img.shields.io/badge/Edge-0078d7?logo=microsoft-edge&logoColor=white&style=plastic" alt="Edge"><img src="https://img.shields.io/badge/~5%25-0078d7?style=plastic" alt="5% User market share"></a>
     <!-- Opera -->
-    <a href="#" title="Opera Add-ons" style="text-decoration: none;"><img src="https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=white&style=plastic" alt="Opera"><img src="https://img.shields.io/badge/~3%25-FF1B2D?style=plastic" alt="3% market share"></a>
+    <a href="#" title="Opera Add-ons" style="text-decoration: none;"><img src="https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=white&style=plastic" alt="Opera"><img src="https://img.shields.io/badge/~3%25-FF1B2D?style=plastic" alt="3% User market share"></a>
     <!-- Brave -->
-    <a href="#" title="Brave Store" style="text-decoration: none;"><img src="https://img.shields.io/badge/Brave-FF2929?logo=brave&logoColor=white&style=plastic" alt="Brave"><img src="https://img.shields.io/badge/~1.5%25-FF2929?style=plastic" alt="1.5% market share"></a>
+    <a href="#" title="Brave Store" style="text-decoration: none;"><img src="https://img.shields.io/badge/Brave-FF2929?logo=brave&logoColor=white&style=plastic" alt="Brave"><img src="https://img.shields.io/badge/~1.5%25-FF2929?style=plastic" alt="1.5% User market share"></a>
   </div>
 
 </div>
