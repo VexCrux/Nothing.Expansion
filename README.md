@@ -183,20 +183,6 @@ Nothing сканирует браузер и отображает информа
 > 💡 **EN:** Pin the extension icon to your toolbar for instant access.
 > 💡 **RU:** Закрепите иконку расширения на панели инструментов для быстрого доступа.
 
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Chrome%20API-Manifest%20V3-4285F4?style=plastic&logo=googlechrome&logoColor=white" alt="Chrome API">
-  <img src="https://img.shields.io/badge/WebRTC-API-333333?style=plastic&logo=webrtc&logoColor=white" alt="WebRTC">
-</p>
-
 </div>
 
 ## 🛡️ Security Notes / Примечания по безопасности
