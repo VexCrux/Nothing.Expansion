@@ -30,33 +30,12 @@
 <!--
   Author Section - Premium Styling (Improved Original)
 -->
-<br>
-<hr>
-<br>
-
-<div align="center">
-  
-  <!-- Аватар (Круглый, с мягкой тенью и рамкой) -->
-  <a href="https://github.com/VexCrux" title="Go to VexCrux GitHub profile">
-    <img src="https://github.com/VexCrux.png" width="120" height="120" alt="VexCrux Avatar" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border: 3px solid #ffffff; transition: transform 0.2s ease-in-out;" />
+<p align="center">
+  <img src="https://github.com/VexCrux.png" width="100" style="border-radius: 25px;" alt="VexCrux"/><br>
+  <a href="https://github.com/VexCrux">
+    <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-
-
-  <!-- Имя (Заголовок) -->
-  <h2 style="margin: 0; font-weight: 700; color: #24292f;">VexCrux</h2>
-  
-  <!-- Подпись (Кратко о проекте/роли) -->
-  <p style="margin-top: 8px; color: #57606a; font-size: 16px;">
-    <em>Creator of Nothing.Expansion</em>
-  </p>
-
-
-  <!-- Кнопка (Стиль For-The-Badge, монохром, закругленные углы) -->
-  <a href="https://github.com/VexCrux" title="Follow VexCrux on GitHub">
-    <img src="https://img.shields.io/badge/Follow%20on-GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=24292f" alt="Follow @VexCrux" style="border-radius: 10px;" />
-  </a>
-
-</div>
+</p>
 
 <!-- Quick Stats -->
 <p align="center">
