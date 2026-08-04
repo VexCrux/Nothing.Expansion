@@ -31,9 +31,10 @@
   Author Section - Premium Styling (Improved Original)
 -->
 <p align="center">
-  <img src="https://github.com/VexCrux.png" width="100" style="border-radius: 25px;" alt="VexCrux"/><br>
-  <a href="https://github.com/VexCrux">
-    <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+  <a href="https://github.com/VexCrux" style="text-decoration:none; display:inline-flex; align-items:center; gap:12px; background:#181717; border:1px solid #3d53d7; padding:8px 18px 8px 8px; border-radius: 100px;">
+    <img src="https://github.com/VexCrux.png" width="32" height="32" style="border-radius:50%;" alt="VexCrux">
+    <span style="color:white; font-weight:600; font-size:14px;">@VexCrux</span>
+    <span style="color:#8b949e; font-size:14px;">↗</span>
   </a>
 </p>
 
