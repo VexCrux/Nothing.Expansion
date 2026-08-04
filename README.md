@@ -31,11 +31,13 @@
   </a>
 </p>
 
-  <!-- Stats - твои старые звезды / загрузки -->
+<!-- Quick Stats -->
 <p align="center">
-  <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/badge/STARS-1-grey?style=for-the-badge&logo=github" alt="Stars"></a>
-  <a href="https://github.com/VexCrux/Nothing.Expansion/network/members"><img src="https://img.shields.io/badge/FORKS-0-grey?style=for-the-badge&logo=github" alt="Forks"></a>
-  <a href="https://github.com/VexCrux/Nothing.Expansion/releases"><img src="https://img.shields.io/badge/DOWNLOADS-3-yellow?style=for-the-badge&logo=github" alt="Downloads"></a>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=social" alt="Stars"></a>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/network/members"><img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=social" alt="Forks"></a>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/releases"><img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?style=social&logo=github" alt="Downloads"></a>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/commits/main"><img src="https://img.shields.io/github/last-commit/VexCrux/Nothing.Expansion?style=social&logo=github" alt="Last Commit"></a>
+</p>
 
   <!-- Navigation -->
   <p align="center">
