@@ -28,7 +28,7 @@
 </div>
 
 <!--
-  Author Section - Modern Professional Styling
+  Author Section - GitHub Only, Modern Styling
 -->
 
 <br>
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-  <!-- Аватар с мягкой тенью и рамкой -->
+  <!-- Аватар (Круглый, с тенью и рамкой) -->
   <a href="https://github.com/VexCrux">
     <img src="https://github.com/VexCrux.png" width="120" height="120" alt="VexCrux" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border: 3px solid #fff;" />
   </a>
@@ -45,28 +45,15 @@
   <br>
   <br>
 
-  <!-- Имя и ссылка на GitHub -->
-  <h2>VexCrux</h2>
-
-  <!-- Ссылки на профили (стиль Flat-Square) -->
-  <p align="center">
-    <a href="https://github.com/VexCrux">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
-    </a>
-    <!-- РЕКОМЕНДАЦИЯ: Добавьте LinkedIn (замените '#' на вашу ссылку) -->
-    <a href="#">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-    </a>
-    <!-- РЕКОМЕНДАЦИЯ: Добавьте Twitter (замените '#' на вашу ссылку) -->
-    <a href="#">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Profile"/>
-    </a>
-  </p>
+  <!-- Имя -->
+  <h2 style="margin: 0;">VexCrux</h2>
 
   <br>
 
-  <!-- Краткий призыв к действию (на английском, т.к. проект международный) -->
-  <p><em>🚀 Building awesome things for the browser.</em></p>
+  <!-- Кнопка GitHub (Flat-Square, монохром) -->
+  <a href="https://github.com/VexCrux" title="Follow VexCrux on GitHub">
+    <img src="https://img.shields.io/badge/Follow%20on-GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="Follow VexCrux on GitHub"/>
+  </a>
 
 </div>
 
