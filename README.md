@@ -41,8 +41,6 @@
     <img src="https://github.com/VexCrux.png" width="120" height="120" alt="VexCrux Avatar" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border: 3px solid #ffffff; transition: transform 0.2s ease-in-out;" />
   </a>
 
-  <br>
-  <br>
 
   <!-- Имя (Заголовок) -->
   <h2 style="margin: 0; font-weight: 700; color: #24292f;">VexCrux</h2>
@@ -52,7 +50,6 @@
     <em>Creator of Nothing.Expansion</em>
   </p>
 
-  <br>
 
   <!-- Кнопка (Стиль For-The-Badge, монохром, закругленные углы) -->
   <a href="https://github.com/VexCrux" title="Follow VexCrux on GitHub">
@@ -60,11 +57,6 @@
   </a>
 
 </div>
-
-<br>
-<hr>
-<br>
-
 
 <!-- Quick Stats -->
 <p align="center">
