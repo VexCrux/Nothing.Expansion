@@ -9,25 +9,81 @@
 <!-- Browser Support -->
 <!--
   VexCrux/Nothing.Expansion - Browser Support
-  Styling: Flat-Square, Monochrome Icons
+  Styling: Flat-Square with Dynamic Market Share
 -->
 
+<br>
+
+<h3 align="center">🚀 Статус проекта и совместимость</h3>
+
+<br>
+
+<!-- Основные статусы (Версия и Стабильность) -->
 <p align="center">
+  <!-- Версия (автоматическая из GitHub) -->
   <a href="https://github.com/VexCrux/Nothing.Expansion/releases/latest">
-    <img src="https://img.shields.io/github/v/release/VexCrux/Nothing.Expansion?color=737373&label=Version&logo=github&style=flat-square" alt="GitHub Release">
+    <img src="https://img.shields.io/github/v/release/VexCrux/Nothing.Expansion?color=555&label=Версия&logo=github&logoColor=white&style=flat-square" alt="GitHub Release">
   </a>
-  <img src="https://img.shields.io/badge/Status-Stable-brightgreen?style=flat-square&logo=circleci&logoColor=white" alt="Stability: Stable">
+  <!-- Стабильность -->
+  <img src="https://img.shields.io/badge/Статус-Стабильный-brightgreen?logo=circleci&logoColor=white&style=flat-square" alt="Stability">
 </p>
 
 <br>
 
+<!-- Секция браузеров с долей рынка -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Supported%20by-Chrome-blue?style=flat-square&logo=google-chrome&logoColor=fff" alt="Chrome"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Brave-ff0039?style=flat-square&logo=brave&logoColor=fff" alt="Brave"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Edge-0078d7?style=flat-square&logo=microsoft-edge&logoColor=fff" alt="Edge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Vivaldi-a01c2c?style=flat-square&logo=vivaldi&logoColor=fff" alt="Vivaldi"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Opera-ff1b2d?style=flat-square&logo=opera&logoColor=fff" alt="Opera"></a>
+  <sub>Поддерживаемые браузеры и их приблизительная доля рынка (глобально):</sub>
 </p>
+
+<br>
+
+<!-- Браузеры (выровнены по центру с помощью flex-блока) -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 600px; margin: 0 auto;">
+
+  <!-- CHROME -->
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=fff&style=flat-square" alt="Chrome">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FAlexays%2F61753098974096335c340816d35a1f75%2Fraw%2Fchrome.json&style=flat-square&color=4285F4" alt="Market Share">
+  </a>
+
+  <!-- FIREFOX -->
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=fff&style=flat-square" alt="Firefox">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FAlexays%2F61753098974096335c340816d35a1f75%2Fraw%2Ffirefox.json&style=flat-square&color=FF7139" alt="Market Share">
+  </a>
+
+  <!-- EDGE -->
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Edge-0078d7?logo=microsoft-edge&logoColor=fff&style=flat-square" alt="Edge">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FAlexays%2F61753098974096335c340816d35a1f75%2Fraw%2Fedge.json&style=flat-square&color=0078d7" alt="Market Share">
+  </a>
+
+  <!-- BRAVE -->
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Brave-FF2929?logo=brave&logoColor=fff&style=flat-square" alt="Brave">
+    <img src="https://img.shields.io/badge/N%2FA-grey?style=flat-square" alt="Market Share N/A">
+  </a>
+
+  <!-- SAFARI -->
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Safari-000000?logo=safari&logoColor=fff&style=flat-square" alt="Safari">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FAlexays%2F61753098974096335c340816d35a1f75%2Fraw%2Fsafari.json&style=flat-square&color=333" alt="Market Share">
+  </a>
+
+  <!-- OPERA -->
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=fff&style=flat-square" alt="Opera">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FAlexays%2F61753098974096335c340816d35a1f75%2Fraw%2Fopera.json&style=flat-square&color=FF1B2D" alt="Market Share">
+  </a>
+
+  <!-- VIVALDI -->
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Vivaldi-a01c2c?logo=vivaldi&logoColor=fff&style=flat-square" alt="Vivaldi">
+    <img src="https://img.shields.io/badge/N%2FA-grey?style=flat-square" alt="Market Share N/A">
+  </a>
+
+</div>
+
 <!-- Author -->
 <p align="center">
   <img src="https://github.com/VexCrux.png" width="100" style="border-radius: 25px;" alt="VexCrux"/><br>
