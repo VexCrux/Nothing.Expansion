@@ -8,22 +8,16 @@
 
 <!-- Browser Support -->
 <p align="center">
-  <a href="https://github.com/VexCrux/Nothing.Expansion/releases">
-    <img src="https://img.shields.io/badge/%F0%9F%94%B6_v0.2.3-2c2c2c?style=for-the-badge&logo=github&logoColor=white" alt="Version"/>
-  </a>
-  <img src="https://img.shields.io/badge/STABLE-2ea44f?style=for-the-badge" alt="Stable"/>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source"/>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/CHROME-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome"></a>
-  <a href="#"><img src="https://img.shields.io/badge/BRAVE-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Brave"></a>
-  <a href="#"><img src="https://img.shields.io/badge/EDGE-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Edge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/VIVALDI-FB6C42?style=for-the-badge&logo=vivaldi&logoColor=white" alt="Vivaldi"></a>
-  <a href="#"><img src="https://img.shields.io/badge/OPERA-EF3939?style=for-the-badge&logo=opera&logoColor=white" alt="Opera"></a>
-</p>
-
-<p align="center">
-  <sub>Supports all Chromium-based browsers • Поддерживает все Chromium-браузеры</sub>
+  <a href="#"><img src="https://cdn.jsdelivr.net/npm/@simple-icons/simple-icons/icons/googlechrome.svg" width="40" height="40" alt="Chrome"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/npm/@simple-icons/simple-icons/icons/brave.svg" width="40" height="40" alt="Brave"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/npm/@simple-icons/simple-icons/icons/microsoftedge.svg" width="40" height="40" alt="Edge"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/npm/@simple-icons/simple-icons/icons/vivaldi.svg" width="40" height="40" alt="Vivaldi"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/npm/@simple-icons/simple-icons/icons/opera.svg" width="40" height="40" alt="Opera"/></a>
 </p>
 
 <!-- Author -->
