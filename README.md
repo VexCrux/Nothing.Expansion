@@ -9,9 +9,9 @@
 <!-- Browser Support -->
 <p align="center">
   <a href="https://github.com/VexCrux/Nothing.Expansion/releases">
-    <img src="https://img.shields.io/badge/v0.2.3-grey?style=for-the-badge&logo=github&logoColor=white" alt="Version"/>
+    <img src="https://img.shields.io/badge/🔶_v0.2.3-grey?style=for-the-badge&logo=github&logoColor=white" alt="Version"/>
   </a>
-  <img src="https://img.shields.io/badge/STABLE-green?style=for-the-badge" alt="Stable"/>
+  <img src="https://img.shields.io/badge/✅_STABLE-green?style=for-the-badge" alt="Stable"/>
 </p>
 
 <p align="center">
