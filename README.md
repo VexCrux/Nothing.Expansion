@@ -27,13 +27,52 @@
 
 </div>
 
-<!-- Author -->
-<p align="center">
-  <img src="https://github.com/VexCrux.png" width="100" style="border-radius: 25px;" alt="VexCrux"/><br>
+<!--
+  Author Section - Modern Professional Styling
+-->
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+
+  <!-- Аватар с мягкой тенью и рамкой -->
   <a href="https://github.com/VexCrux">
-    <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://github.com/VexCrux.png" width="120" height="120" alt="VexCrux" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border: 3px solid #fff;" />
   </a>
-</p>
+
+  <br>
+  <br>
+
+  <!-- Имя и ссылка на GitHub -->
+  <h2>VexCrux</h2>
+
+  <!-- Ссылки на профили (стиль Flat-Square) -->
+  <p align="center">
+    <a href="https://github.com/VexCrux">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+    </a>
+    <!-- РЕКОМЕНДАЦИЯ: Добавьте LinkedIn (замените '#' на вашу ссылку) -->
+    <a href="#">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+    </a>
+    <!-- РЕКОМЕНДАЦИЯ: Добавьте Twitter (замените '#' на вашу ссылку) -->
+    <a href="#">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Profile"/>
+    </a>
+  </p>
+
+  <br>
+
+  <!-- Краткий призыв к действию (на английском, т.к. проект международный) -->
+  <p><em>🚀 Building awesome things for the browser.</em></p>
+
+</div>
+
+<br>
+<hr>
+<br>
 
 <!-- Quick Stats -->
 <p align="center">
