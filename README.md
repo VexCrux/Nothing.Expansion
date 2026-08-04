@@ -1,296 +1,365 @@
-<!-- Animated Wave Header - Blue/Purple Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0138b7,50:3d53d7,100:5372e0&height=180&section=header&text=NOTHING&fontSize=60&fontColor=b8ceff&animation=fadeIn&fontAlignY=35&desc=By%20VexCrux&descSize=18&descAlignY=55&descColor=a1b9f6" alt="Header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0138b7,50:3d53d7,100:5372e0&height=160&section=header&text=Nothing&fontSize=45&fontColor=b8ceff&desc=Browser+Privacy+%26+Fingerprint+Management&descSize=16&descAlignY=60" alt="Header">
 
-<!-- Language Switcher -->
 <p align="center">
-  <img src="https://img.shields.io/badge/all languages-Active-2ea44f?style=plastic&logo=googletranslate&logoColor=white" alt="Russian">
+  <strong>Advanced Browser Privacy & Digital Fingerprint Management</strong><br>
+  <strong>Продвинутое управление цифровыми отпечатками и защита конфиденциальности</strong>
 </p>
 
-<!-- Browser Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white&style=plastic" alt="Chrome">
-  <img src="https://img.shields.io/badge/Edge-Extension-0078D7?logo=microsoftedge&logoColor=white&style=plastic" alt="Edge">
-  <img src="https://img.shields.io/badge/Brave-Extension-FB542B?logo=brave&logoColor=white&style=plastic" alt="Brave">
-  <img src="https://img.shields.io/badge/Version-0.2.3-3d53d7?style=plastic" alt="Version">
-  <img src="https://img.shields.io/badge/Status-Stable-2ea44f?style=plastic" alt="Status">
+  <a href="https://github.com/VexCrux/Nothing.Expansion/releases"><img src="https://img.shields.io/badge/Version-0.2.3-3d53d7?style=flat-square" alt="Version"></a>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=flat-square&logo=github" alt="Stars"></a>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/network/members"><img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=flat-square&logo=github" alt="Forks"></a>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"></a>
 </p>
 
-<!-- Description -->
-<p align="center"><b>Advanced Browser Privacy & Digital Fingerprint Management</b></p>
-<p align="center"><i>Продвинутая защита конфиденциальности и управление цифровым отпечатком браузера</i></p>
-
-<!-- Author -->
 <p align="center">
-  <a href="https://github.com/VexCrux">
-    <img src="https://img.shields.io/badge/by-VexCrux-3d53d7?style=plastic&logo=github&logoColor=white" alt="VexCrux"/>
-  </a>
-</p>
-
-<!-- Quick Stats -->
-<p align="center">
-  <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers">
-    <img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Stars" alt="Stars"/>
-  </a>
-  <a href="https://github.com/VexCrux/Nothing.Expansion/network/members">
-    <img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Forks" alt="Forks"/>
-  </a>
-  <a href="https://github.com/VexCrux/Nothing.Expansion/releases">
-    <img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?style=plastic&logo=github&label=Downloads" alt="Downloads"/>
-  </a>
-  <img src="https://img.shields.io/github/last-commit/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Last+Commit" alt="Last Commit"/>
-</p>
-
-<!-- Quick Navigation -->
-<p align="center">
+  <a href="#-warning--предупреждение">⚠️ Warning</a> •
   <a href="#-features--возможности">✨ Features</a> •
-  <a href="#-installation--установка">🚀 Install</a> •
-  <a href="#-timezone-showcase--часовые-пояса">🌍 Timezones</a> •
-  <a href="#-roadmap--планы-развития">🗺️ Roadmap</a>
+  <a href="#-installation--установка">Installation</a> •
+  <a href="#-timezones--часовые-пояса">Timezones</a> •
+  <a href="#-security">Security</a> •
+  <a href="https://github.com/VexCrux/Nothing.Expansion/discussions/1">Discussions</a>
 </p>
 
 ---
 
-## ⚠️ Disclaimer / Предупреждение
+## ⚠️ Important Warning
+
+> [!CAUTION]
+> **Nothing does NOT provide 100% anonymity** — This extension works only at browser level and **does NOT hide your real IP address**. For real anonymity, use **VPN or Tor** separately.
+
+> [!IMPORTANT]
+> **Desync is worse than no protection** — If the spoofed timezone doesn't match your real IP geolocation, this is **more noticeable** to trackers than no spoofing at all.
+
+> [!NOTE]
+> **Technical limitations** — Browsers don't allow extensions to hide everything. Nothing protects where technically possible, but cannot guarantee complete invisibility.
+
+---
+
+## ⚠️ Важное предупреждение
 
 > [!WARNING]
-> **EN:** This extension is built **exclusively** for privacy protection, digital fingerprint management, and network traffic analysis. **Always use official builds from this repository.**
->
-> **RU:** Расширение создано **исключительно** для защиты конфиденциальности, управления цифровыми отпечатками и анализа сетевого трафика. **Используйте только официальные сборки из этого репозитория.**
+> **Nothing не даёт 100% анонимности** — Это расширение работает только на уровне браузера и **не скрывает ваш реальный IP-адрес**. Для настоящей анонимности используйте **VPN или Tor** отдельно.
+
+> [!IMPORTANT]
+> **Рассинхрон хуже отсутствия защиты** — Если подменный часовой пояс не совпадает с вашей реальной геолокацией по IP, это **более заметно** трекерам, чем вообще никакая подмена.
+
+> [!NOTE]
+> **Технические ограничения** — Браузер не позволяет расширениям скрыть всё. Nothing защищает там, где это технически возможно, но не может гарантировать полную невидимость.
 
 ---
 
-## ✨ Features / Возможности
+## What Nothing Does NOT Do
 
-### 📊 Traffic Monitor — Мониторинг трафика в реальном времени
-
-> Встроенная панель статистики по активной вкладке с детальными метриками.
-
-| Metric / Метрика | EN Description | RU Описание |
-|---|---|---|
-| **Domain** | Current tab domain being monitored | Текущий домен активной вкладки |
-| **Requests** | Total HTTP requests count (e.g., 286) | Общее количество HTTP-запросов |
-| **Packet Loss** | Percentage of blocked packets (e.g., 0%) | Процент заблокированных пакетов |
-| **Traffic Volume** | Data transferred (e.g., 1.85 MB) | Объём переданных данных (КБ/МБ) |
-| **Blocked Trackers** | Count of tracker scripts blocked (e.g., 0) | Количество заблокированных трекеров |
-| **Session Timer** | Active protection duration (e.g., 0h 27m 15s) | Время активной защиты сессии |
-| **Total Protected** | Cumulative protection time (e.g., 6h 24m) | Общее время под защитой |
+| ❌ Does NOT do | ✅ Does |
+|----------------|---------|
+| Hide your real IP address | Spoof User-Agent and platform |
+| Replace VPN/proxy | Mask Canvas and Audio fingerprint |
+| Provide 100% anonymity guarantee | Block WebRTC IP-leaks |
+| Hide your browsing history | Spoof timezone |
+| Hide your behavior | Monitor traffic in real-time |
 
 ---
 
-### 🔧 Core Protection Features / Основные функции защиты
+## Что Nothing НЕ делает
 
-| # | 🏷️ Feature (EN) | 🏷️ Возможность (RU) | Status | 📋 Description / Описание |
-|---|------------------|----------------------|--------|---------------------------|
-| 1 | **Master Toggle** | **Общий выключатель** | ✅ | Instant on/off switch. Settings bypass browser service pages. / Мгновенное включение/выключение. Настройки не действуют на служебных страницах браузера. |
-| 2 | **Browser Identification** | **Идентификация браузера** | ✅ | Spoofs User-Agent, platform, and OS simultaneously. / Одновременная подмена User-Agent + платформы + ОС. |
-| 3 | **System Profiles** | **Профили систем** | ✅ | Selectable profiles: Windows 11 · Chrome, Windows 10 · Chrome, macOS · Chrome, Linux · Chrome. Plus custom profile builder (beta). / Выбор профилей: Windows 11, 10, macOS, Linux + конструктор своей системы (бета). |
-| 4 | **Hardware Parameters** | **Аппаратные параметры** | ✅ | Masks hardware-level browser metrics: CPU cores, device memory, etc. / Маскировка аппаратных данных: ядра CPU, память устройства и др. |
-| 5 | **Screen Resolution** | **Разрешение экрана** | ✅ | Changes only `screen.width`/`screen.height` — doesn't resize the window, so site layout stays intact. / Меняет только `screen.width`/`screen.height` — не трогает размер окна, вёрстка не ломается. |
-| 6 | **Canvas & Audio Noise** | **Canvas/Audio шум** | ✅ | Injects randomization into Canvas and AudioContext APIs with unique identifier hash per site. / Рандомизация Canvas и AudioContext API с уникальным хэшем подписи на сайт. |
-| 7 | **Adaptive Noise Aggression** | **Адаптивная агрессия шума** | ⚠️ | Dynamically scales noise intensity based on tracker activity. Can be enabled/disabled. / Динамически масштабирует интенсивность шума при активности трекеров. |
-| 8 | **Real-time WebGL Spoofing** | **Подмена WebGL (real-time)** | ✅ | Spoofs WebGL renderer and vendor strings in real-time. / Подменяет строки рендерера и вендора WebGL в реальном времени. |
-| 9 | **Anti-fraud / Geo-tracker Blocking** | **Блокировка антифрод/geo-трекеров** | ✅ | Blocks known anti-fraud and geographic tracking scripts. / Блокирует антифрод-скрипты и гео-трекеры. |
-| 10 | **Hide Yandex Promo-blocks** | **Скрыть промо-блоки Яндекса** | ✅ | Cosmetic filter for known Yandex ad classes — not network-level blocking. / Косметический фильтр по известным классам рекламы Яндекса — не сетевая блокировка. |
-| 11 | **WebRTC IP-Leak Block** | **Блокировка WebRTC IP-leak** | ✅ | Prevents real IP leaks via WebRTC with per-site whitelist support. / Блокирует утечку реального IP через WebRTC с белым списком сайтов. |
-| 12 | **Timezone Spoofing** | **Подмена часового пояса** | ✅ | Spoof timezone with live clock display (HH:MM:SS). Auto-sync with IP available. / Подмена таймзоны с живыми часами (ЧЧ:ММ:СС). Автонастройка по IP доступна. |
-| 13 | **TURN Server Configuration** | **Настройка TURN-сервера** | ✅ | Custom TURN server for WebRTC relay. Warning dialog confirms user trust before activation. / Пользовательский TURN-сервер. Диалог подтверждения доверия перед активацией. |
-| 14 | **Do Not Track / Cookies** | **Do Not Track / Cookies** | ⚠️ | Sends DNT signal when enabled. Disabled by default to avoid fingerprinting. / Отправляет сигнал DNT при включении. Выключено по умолчанию. |
+| ❌ Не делает | ✅ Делает |
+|-------------|----------|
+| Скрывает ваш реальный IP-адрес | Подменяет User-Agent и платформу |
+| Заменяет VPN/прокси | Маскирует Canvas и Audio fingerprint |
+| Даёт 100% гарантии анонимности | Блокирует WebRTC IP-leaks |
+| Скрывает историю посещений | Подменяет часовой пояс |
+| Скрывает ваше поведение | Мониторит трафик в реальном времени |
 
 ---
 
-### 🔍 Compatibility Tab — Вкладка совместимости
+## ✨ Features
 
-> Реальный сканер установленных расширений с версиями и анализом потенциальных конфликтов.
+### 📊 Traffic Monitor
 
-<details>
-<summary>📖 Как это работает / How it works</summary>
+Built-in statistics panel for active tab:
 
-Nothing сканирует браузер и отображает информацию о других установленных расширениях для приватности:
-
-| Detected Extension / Расширение | Version | Status | Notes / Примечания |
-|---|---|---|---|
-| **Brave 151** | Built-in | ℹ️ | Brave имеет встроенные Shields — экран фингерпринтинга и блокировка рекламы/трекеров. Nothing работает поверх него независимо. / Brave has built-in Shields — fingerprinting and ad/tracker blocking at browser level. Nothing works independently on top of it. |
-| **uBlock Origin** | v1.72.2 | ✅ Compatible | Fast and effective browser blocker. / Быстрый и эффективный блокировщик. |
-| **Decentraleyes** | v3.0.1 | ✅ Compatible | Protects from tracking via "free" centralized CDNs. / Защищает от отслеживания через бесплатные CDN. |
-| **Privacy Badger** | v2026.6.16 | ✅ Compatible | Automatically learns to block hidden trackers by EFF. / Автоматически обучается блокировать скрытые трекеры от EFF. |
-
-> **EN:** Nothing cannot see exactly what another extension does on a page — browsers don't give such access. If similar tools are active nearby, Nothing treats cookies and CDN-spoofing carefully on this page to avoid conflicts.
->
-> **RU:** Nothing не может видеть, что именно делает другое расширение на странице — браузер не даёт такого доступа. Если рядом активны похожие инструменты, Nothing аккуратнее относится к кукам и CDN-подмене на этой странице, чтобы не спорить с ними и не сломать сайт.
-
-</details>
+| Metric | Description |
+|--------|-------------|
+| **Domain** | Currently monitored page |
+| **Requests** | Total HTTP requests count |
+| **Traffic** | Data transferred (KB/MB) |
+| **Blocked** | Number of blocked trackers |
+| **Session** | Active protection time (timer) |
 
 ---
 
-### 🌐 Timezone Showcase — Выбор часового пояса
+## ✨ Возможности
 
-> Огромная база часовых поясов с отображением текущего времени.
+### 📊 Мониторинг трафика
+
+Встроенная панель статистики по активной вкладке:
+
+| Метрика | Описание |
+|---------|----------|
+| **Домен** | Текущая отслеживаемая страница |
+| **Запросы** | Общее количество HTTP-запросов |
+| **Трафик** | Объём переданных данных (КБ/МБ) |
+| **Блокировки** | Количество заблокированных трекеров |
+| **Сессия** | Время активной защиты (таймер) |
+
+---
+
+### 🔧 Fingerprint Protection
+
+| Feature | Description |
+|---------|-------------|
+| **User-Agent spoofing** | UA + platform + OS spoofed simultaneously |
+| **System profiles** | Windows 10/11, macOS, Linux with custom profiles |
+| **Canvas/Audio noise** | Deterministic noise with unique hash per site |
+| **WebGL spoofing** | Renderer and vendor spoofing in real-time |
+| **Hardware parameters** | Masks CPU cores, device memory |
+| **Screen resolution** | Changes `screen.width/height` without resizing window |
+
+---
+
+### 🔧 Защита от fingerprinting
+
+| Функция | Описание |
+|---------|----------|
+| **User-Agent спуфинг** | Подмена UA + платформы + ОС одновременно |
+| **Профили систем** | Windows 10/11, macOS, Linux с кастомными профилями |
+| **Canvas/Audio шум** | Детерминированный шум с уникальным хэшем на сайт |
+| **WebGL спуфинг** | Подмена рендерера и вендора в реальном времени |
+| **Аппаратные параметры** | Маскировка CPU cores, device memory |
+| **Разрешение экрана** | Меняет `screen.width/height` без изменения окна |
+
+---
+
+### 🌐 Network Security
+
+| Feature | Description |
+|---------|-------------|
+| **WebRTC IP-leak block** | Blocks IP leak via WebRTC with whitelist |
+| **Anti-fraud trackers** | Blocks known anti-fraud and geo-tracking services |
+| **Timezone spoofing** | Full IANA timezone list with auto-sync by IP |
+| **Do Not Track** | Sends DNT signal (disabled by default) |
+| **TURN server** | Custom WebRTC relay configuration with confirmation |
+
+---
+
+### 🌐 Сетевая безопасность
+
+| Функция | Описание |
+|---------|----------|
+| **WebRTC IP-leak блок** | Блокировка утечки IP через WebRTC с whitelist |
+| **Антифрод-трекеры** | Блокировка известных антифрод и geo-tracking сервисов |
+| **Подмена часового пояса** | Полный список IANA-таймзон с автонастройкой по IP |
+| **Do Not Track** | Отправка сигнала DNT (выключено по умолчанию) |
+| **TURN-сервер** | Кастомная настройка WebRTC relay с подтверждением |
+
+---
+
+### 🔍 Compatibility
+
+| Extension | Status | Note |
+|-----------|--------|------|
+| **Brave Shields** | ℹ️ Works together | Built-in Brave protection + Nothing independent |
+| **uBlock Origin** | ✅ Compatible | Works without conflicts |
+| **Privacy Badger** | ✅ Compatible | Adaptive aggression reduces conflicts |
+| **Decentraleyes** | ✅ Compatible | No functionality overlap |
+
+> Nothing automatically softens Canvas noise when detecting similar privacy tools to prevent conflicts.
+
+---
+
+### 🔍 Совместимость
+
+| Расширение | Статус | Примечание |
+|------------|--------|------------|
+| **Brave Shields** | ℹ️ Работает вместе | Встроенная защита Brave + Nothing независимы |
+| **uBlock Origin** | ✅ Совместимо | Работает без конфликтов |
+| **Privacy Badger** | ✅ Совместимо | Adaptive aggression снижает конфликт |
+| **Decentraleyes** | ✅ Совместимо | Нет перекрытия функциональности |
+
+> Nothing автоматически смягчает Canvas-шум при обнаружении похожих privacy-инструментов для предотвращения конфликтов.
+
+---
+
+## 🌍 Timezones
+
+Full support for all IANA timezones with **live time display** (HH:MM:SS).
+
+### Popular timezones:
+
+| Region | City | Timezone ID |
+|--------|------|-------------|
+| 🇷🇺 Russia | Moscow | `Europe/Moscow` |
+| 🇷🇺 Russia | Yekaterinburg | `Asia/Yekaterinburg` |
+| 🇷🇺 Russia | Novosibirsk | `Asia/Novosibirsk` |
+| 🇬🇧 Europe | London | `Europe/London` |
+| 🇩🇪 Europe | Berlin | `Europe/Berlin` |
+| 🇺🇸 USA | New York | `America/New_York` |
+| 🇺🇸 USA | Los Angeles | `America/Los_Angeles` |
+
+> **IP Auto-sync:** One click — automatic timezone detection based on your current IP. Eliminates desync between geolocation and time.
+
+---
+
+## 🌍 Часовые пояса
+
+Полная поддержка всех IANA-таймзон с **живым отображением времени** (ЧЧ:ММ:СС).
+
+### Популярные пояса:
+
+| Регион | Город | Timezone ID |
+|--------|-------|-------------|
+| 🇷🇺 Россия | Москва | `Europe/Moscow` |
+| 🇷🇺 Россия | Екатеринбург | `Asia/Yekaterinburg` |
+| 🇷🇺 Россия | Новосибирск | `Asia/Novosibirsk` |
+| 🇬🇧 Европа | Лондон | `Europe/London` |
+| 🇩🇪 Европа | Берлин | `Europe/Berlin` |
+| 🇺🇸 США | Нью-Йорк | `America/New_York` |
+| 🇺🇸 США | Лос-Анджелес | `America/Los_Angeles` |
+
+> **Автонастройка по IP:** Один клик — автоматическое определение часового пояса по вашему текущему IP. Исключает рассинхрон между геолокацией и временем.
+
+---
+
+## 🚀 Installation
+
+| Step | Action |
+|------|--------|
+| **1** | Download ZIP: [Code → Download ZIP](https://github.com/VexCrux/Nothing.Expansion/archive/refs/heads/main.zip) |
+| **2** | Extract archive to separate folder |
+| **3** | Open `chrome://extensions/` or `brave://extensions/` |
+| **4** | Enable **Developer mode** (toggle top-right) |
+| **5** | Click **Load unpacked** → select project folder |
+| **6** | Pin icon to toolbar for quick access |
+
+---
+
+## 🚀 Установка
+
+| Шаг | Действие |
+|-----|----------|
+| **1** | Скачайте ZIP: [Code → Download ZIP](https://github.com/VexCrux/Nothing.Expansion/archive/refs/heads/main.zip) |
+| **2** | Распакуйте архив в отдельную папку |
+| **3** | Откройте `chrome://extensions/` или `brave://extensions/` |
+| **4** | Включите **Режим разработчика** (toggle справа вверху) |
+| **5** | Нажмите **Load unpacked** → выберите папку проекта |
+| **6** | Закрепите иконку на панели инструментов для быстрого доступа |
+
+---
+
+## 🛡️ Security
+
+### Architecture
+
+nothing/ ├── manifest.json — Config (Manifest V3) ├── background.js — Service Worker: headers, blocking, stats ├── content-loader.js — Injects inject.js into page ├── inject.js — Main World: navigator/canvas/webgl/timezone spoofing ├── popup.html/js — Extension interface └── icons/ — Extension icons
+
+
+### Privacy Policy
+
+| Not stored | Why this matters |
+|------------|------------------|
+| No personal data | Extension doesn't collect information about you |
+| No telemetry | No external API — data stays local |
+| No analytics | No tracking usage |
+| No history | Only current session in memory |
+
+> [!TIP]
+> All data is stored **locally in browser** and never transmitted anywhere. Check source code — everything is open on GitHub.
+
+---
+
+## 🛡️ Безопасность
+
+### Архитектура
+
+nothing/ ├── manifest.json — Config (Manifest V3) ├── background.js — Service Worker: заголовки, блокировка, статистика ├── content-loader.js — Внедряет inject.js в страницу ├── inject.js — Main World: подмена navigator/canvas/webgl/timezone ├── popup.html/js — Интерфейс расширения └── icons/ — Иконки расширения
+
+
+### Политика конфиденциальности
+
+| Не сохраняется | Почему это важно |
+|----------------|------------------|
+| Никакие личные данные | Расширение не собирает информацию о вас |
+| Никакая телеметрия | Нет внешнего API — данные остаются локально |
+| Никакая аналитика | Нет трекинга использования |
+| Никакая история | Только текущая сессия в памяти |
+
+> [!TIP]
+> Все данные хранятся **локально в браузере** и нигде не передаются. Проверьте исходный код — всё открыто на GitHub.
+
+---
+
+## 📝 Releases
+
+All releases available at: **[View Releases →](https://github.com/VexCrux/Nothing.Expansion/releases)**
+
+| Version | Status | Key Updates |
+|---------|--------|-------------|
+| **v0.2.3** | Stable | Live clock, compatibility tab, extended timezones |
+| **v0.2.2** | Stable | TURN server config, fingerprint verification |
+| **v0.2.1** | Stable | Timezone spoofing, hardware masking |
+| **v0.2.0** | Beta | Initial public release |
+
+---
+
+## 📝 Релизы
+
+Все религи доступны здесь: **[Посмотреть релизы →](https://github.com/VexCrux/Nothing.Expansion/releases)**
+
+| Версия | Статус | Основные обновления |
+|--------|--------|---------------------|
+| **v0.2.3** | Stable | Живые часы, вкладка совместимости, расширенные таймзоны |
+| **v0.2.2** | Stable | Настройка TURN, проверка отпечатка |
+| **v0.2.1** | Stable | Подмена таймзоны, маскировка железа |
+| **v0.2.0** | Beta | Первый публичный релиз |
+
+---
+
+## 🤝 Support
+
+### Report a Bug
+
+1. Open [Releases](https://github.com/VexCrux/Nothing.Expansion/releases)
+2. Check if issue exists
+3. If not, create issue with: browser, Nothing version, reproduction steps
+
+### Request a Feature
+
+1. Visit [Discussions](https://github.com/VexCrux/Nothing.Expansion/discussions/1)
+2. Create new feature request thread
+3. Describe use case and expected behavior
+
+---
+
+## 🤝 Поддержка
+
+### Сообщить о баге
+
+1. Откройте [Релизы](https://github.com/VexCrux/Nothing.Expansion/releases)
+2. Проверьте наличие существующего issue
+3. Если нет — создайте с указанием: браузер, версия Nothing, шаги воспроизведения
+
+### Предложить функцию
+
+1. Посетите [Обсуждения](https://github.com/VexCrux/Nothing.Expansion/discussions/1)
+2. Создайте новую тему с просьбой о фиче
+3. Опишите use case и ожидаемое поведение
+
+---
+
+## 💬 Questions & Feedback
+
+Open a discussion thread: **[Join Discussion →](https://github.com/VexCrux/Nothing.Expansion/discussions/1)**
+
+---
 
 <div align="center">
 
-| 🇷🇺 Россия | 🌆 City | 🕐 Timezone ID |
-| :--- | :--- | :--- |
-| ru | Москва | `Europe/Moscow` |
-| ru | Калининград | `Europe/Kaliningrad` |
-| ru | Екатеринбург | `Asia/Yekaterinburg` |
-| ru | Новосибирск | `Asia/Novosibirsk` |
-| ru | Владивосток | `Asia/Vladivostok` |
-
-| 🇧🇾 Беларусь | 🌆 City | 🕐 Timezone ID |
-| :--- | :--- | :--- |
-| by | Минск | `Europe/Minsk` |
-
-| 🇬🇧 Europe | 🌆 City | 🕐 Timezone ID |
-| :--- | :--- | :--- |
-| gb | Лондон | `Europe/London` |
-| de | Берлин | `Europe/Berlin` |
-| fr | Париж | `Europe/Paris` |
-| es | Мадрид | `Europe/Madrid` |
-| it | Рим | `Europe/Rome` |
-| nl | Амстердам | `Europe/Amsterdam` |
-| pl | Варшава | `Europe/Warsaw` |
-
-| 🇹🇷 Asia | 🌆 City | 🕐 Timezone ID |
-| :--- | :--- | :--- |
-| tr | Стамбул | `Europe/Istanbul` |
-| ae | Дубай | `Asia/Dubai` |
-| sg | Сингапур | `Asia/Singapore` |
-| in | Дели | `Asia/Kolkata` |
-
-| 🇺🇸 Americas | 🌆 City | 🕐 Timezone ID |
-| :--- | :--- | :--- |
-| us | Нью-Йорк (вост.) | `America/New_York` |
-| us | Чикаго (центр.) | `America/Chicago` |
-| us | Лос-Анджелес (зап.) | `America/Los_Angeles` |
-| ca | Торонто | `America/Toronto` |
-
-| 🌎 Other | 🌆 City | 🕐 Timezone ID |
-| :--- | :--- | :--- |
-| br | Сан-Паулу | `America/Sao_Paulo` |
-| au | Сидней | `Australia/Sydney` |
-
-<br>
-
-> 🔄 **Live Clock Display** — Each timezone shows the current time in HH:MM:SS format instantly.
-> 
-> 🔄 **Автонастройка по реальному IP** — Автоматически определит часовой пояс вашего текущего IP и выставит его. Так рассинхрон станет невозможен в принципе.
-
-</div>
-
----
-
-## 🚀 Installation / Установка
-
-| Step | 📝 Action (EN) | 📝 Действие (RU) |
-|------|---------------|------------------|
-| **1** | Click **Code** → **Download ZIP** | Нажмите **Code** → **Download ZIP** |
-| **2** | Extract ZIP to a dedicated folder | Распакуйте архив в отдельную папку |
-| **3** | Open browser → `chrome://extensions/` | Откройте браузер → `chrome://extensions/` |
-| **4** | Enable **Developer mode** (top-right toggle) | Включите **Режим разработчика** (переключатель справа вверху) |
-| **5** | Click **Load unpacked** → select project folder | Нажмите **Загрузить распакованное** → выберите папку проекта |
-
-> 💡 **EN:** Pin the extension icon to your toolbar for instant access.
-> 💡 **RU:** Закрепите иконку расширения на панели инструментов для быстрого доступа.
-
----
-
-## 🗺️ Roadmap / Планы развития
-
-<div align="center">
-
-| Status | Feature / Функция |
-|:------:|---|
-| ✅ | Traffic monitor with real-time stats |
-| ✅ | User-Agent / Platform / WebGL spoofing |
-| ✅ | System profiles (Win 10/11, macOS, Linux) |
-| ✅ | Canvas & Audio fingerprint noise with unique hash |
-| ✅ | Adaptive noise aggression (toggle available) |
-| ✅ | WebRTC IP-leak prevention + whitelist |
-| ✅ | Timezone spoofing with live clock display |
-| ✅ | IP auto-sync for timezone matching |
-| ✅ | TURN server configuration with confirmation dialog |
-| ✅ | Compatibility tab with extension detection |
-| ✅ | Version display for detected extensions |
-| ✅ | Brave Shields integration notice |
-| ✅ | Yandex promo-block cosmetic filter |
-| 🔜 | Activity logs panel with filtering |
-| 🔜 | Custom profile builder completion |
-| 🔜 | Auto-repair engine |
-| 🔜 | OS icon spoofing (Windows version fingerprint) |
-| 🔜 | Smooth tab transitions (Трафик ↔ Совместимость) |
-| 🔜 | Extended timezone list (+ 50 more cities) |
-
-</div>
-
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Chrome%20API-Manifest%20V3-4285F4?style=plastic&logo=googlechrome&logoColor=white" alt="Chrome API">
-  <img src="https://img.shields.io/badge/WebRTC-API-333333?style=plastic&logo=webrtc&logoColor=white" alt="WebRTC">
-</p>
-
-</div>
-
----
-
-## 🛡️ Security Notes / Примечания по безопасности
-
-| 🔒 Feature / Функция | 🎯 Why It Matters / Зачем это нужно |
-|----------------------|--------------------------------------|
-| **Canvas & Audio Noise** | Unique hash per site prevents fingerprinting without breaking sites. / Уникальный хэш на сайт предотвращает фингерпринтинг без поломки сайтов. |
-| **WebRTC IP-Leak Block** | Essential for VPN users — stops real IP leaks during P2P connections. / Критично для VPN-пользователей — блокирует утечку IP в P2P-соединениях. |
-| **Auto Timezone Sync** | Eliminates timezone/IP mismatch. A mismatch exposes you stronger than having no spoofing at all. / Рассинхрон выдаст вас сильнее, чем отсутствие подмены. |
-| **Adaptive Aggression** | Scales protection based on how aggressively a site tries to fingerprint you. / Масштабирует агрессивность шума в зависимости от трекеров на сайте. |
-| **Compatible Coexistence** | Works alongside uBlock Origin, Privacy Badger, Decentraleyes without conflicts. / Работает вместе с другими расширениями без конфликтов. |
-
----
-
-## 📝 Changelog / История изменений
-
-### v0.2.3 (Current — Stable)
-- ✅ Added live clock display for timezone spoofing (HH:MM:SS)
-- ✅ Added compatibility tab with real extension scanning
-- ✅ Added version display for detected extensions (uBlock Origin v1.72.2, etc.)
-- ✅ Added Brave 151 detection with Shields integration notice
-- ✅ Expanded timezone database (Moscow, Kaliningrad, Yekaterinburg, Novosibirsk, Vladivostok, Minsk, London, Berlin, Paris, Madrid, Rome, Amsterdam, Warsaw, Istanbul, Dubai, Singapore, Delhi, New York, Chicago, Los Angeles, Toronto, São Paulo, Sydney)
-- ✅ Added custom profile builder (beta-test option)
-- ⚠️ Adaptive noise aggression is now toggleable (can be enabled/disabled)
-
-### v0.2.2
-- ✅ Added TURN server configuration panel
-- ✅ Added built-in anonymity check (fingerprint verification)
-- ✅ Added adaptive noise aggression slider
-- ✅ Improved traffic monitor with session timer
-
-### v0.2.1
-- ✅ Added timezone spoofing with IP auto-sync
-- ✅ Added screen resolution spoofing (non-destructive)
-- ✅ Added hardware parameters masking
-- ✅ Added anti-fraud/geo-tracker blocking
-
-### v0.2.0
-- ✅ Initial public beta release
-- ✅ Core fingerprint protection (Canvas, Audio, WebGL)
-- ✅ WebRTC IP-leak prevention
-- ✅ User-Agent and system spoofing
-- ✅ Traffic monitor panel
-
----
-
-<div align="center">
-
-<!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5372e0,50:3d53d7,100:0138b7&height=120&section=footer" alt="Footer">
+<img src="https://capsule-web.com/api?type=waving&color=0:5372e0,50:3d53d7,100:0138b7&height=100&section=footer" alt="Footer">
 
 <p><b>Nothing — stay invisible.</b></p>
 <p>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=social" alt="Star"></a>
   <sub>⭐ Star this repo if Nothing helps you stay private!</sub>
 </p>
 
