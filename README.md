@@ -6,50 +6,24 @@
   <img src="https://img.shields.io/badge/all languages-Active-2ea44f?style=plastic&logo=googletranslate&logoColor=white" alt="Russian">
 </p>
 
-<img src="https://capsule-writer.vercel.app/api?type=waving&color=0,0138b7,100,5372e0&height=140&section=header&text=NOTHING&fontSize=50&fontColor=b8ceff&animation=fadeIn&fontAlignY=35&desc=By+VexCrux&descSize=18&descAlignY=55&descColor=a1b9f6" alt="Header">
-
+<!-- Browser Support -->
 <p align="center">
-  <a href="https://github.com/VexCrux/Nothing.Expansion"><img src="https://img.shields.io/badge/all_languages-Active-2ea44f?style=plastic&logo=googletranslate&logoColor=white" alt="Languages"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/VexCrux/Nothing.Expansion/releases"><img src="https://img.shields.io/badge/VERSION-0.2.3-3d53d7?style=plastic&logo=github&logoColor=white" alt="Version"></a>
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/CHROME-4285F4?style=plastic&logo=googlechrome&logoColor=white" alt="Chrome"></a>
-  <a href="#"><img src="https://img.shields.io/badge/EDGE-0078D7?style=plastic&logo=microsoftedge&logoColor=white" alt="Edge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/BRAVE-FB542B?style=plastic&logo=brave&logoColor=white" alt="Brave"></a>
-</p>
-
-<p align="center">
-  Nothing works on all Chromium-based browsers<br>
-  Nothing работает на всех Chromium-браузерах
-</p>
-
-<p align="center">
-  <img src="https://capsule-writer.vercel.app/api?type=rect&color=0,5372e0,100,3d53d7&height=30&section=divider&text=&fontSize=0" alt="divider"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/VexCrux.png" width="100" style="border-radius: 50%;" alt="VexCrux"/><br>
-  <a href="https://github.com/VexCrux">
-    <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/releases">
+    <img src="https://img.shields.io/badge/%F0%9F%94%B6_v0.2.3-Stable-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Version"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=for-the-badge&logo=github" alt="Stars"></a>
-  <a href="https://github.com/VexCrux/Nothing.Expansion/network/members"><img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=for-the-badge&logo=github" alt="Forks"></a>
-  <a href="https://github.com/VexCrux/Nothing.Expansion/releases"><img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?style=for-the-badge&logo=github" alt="Downloads"></a>
-  <a href="https://github.com/VexCrux/Nothing.Expansion/commits/main"><img src="https://img.shields.io/github/last-commit/VexCrux/Nothing.Expansion?style=for-the-badge&logo=github" alt="Last Commit"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome" alt="Chrome"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave" alt="Brave"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge" alt="Edge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vivaldi-EB6238?style=for-the-badge&logo=vivaldi" alt="Vivaldi"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera" alt="Opera"></a>
 </p>
 
 <p align="center">
-  <a href="#-features--возможности">✨ Features</a> •
-  <a href="#-installation--установка">Install</a> •
-  <a href="#-timezones--часовые-пояса">Timezones</a>
-</p>>
+  <sub>Supports all Chromium-based browsers • Поддерживает все Chromium-браузеры</sub>
+</p>
 
 <!-- Author -->
 <p align="center">
