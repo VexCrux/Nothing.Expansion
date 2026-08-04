@@ -52,7 +52,6 @@
 
 </div>
 <br>
----
 
 ## ⚠️ Disclaimer / Предупреждение
 
@@ -60,8 +59,6 @@
 > **EN:** This extension is built **exclusively** for privacy protection, digital fingerprint management, and network traffic analysis. **Always use official builds from this repository.**
 >
 > **RU:** Расширение создано **исключительно** для защиты конфиденциальности, управления цифровыми отпечатками и анализа сетевого трафика. **Используйте только официальные сборки из этого репозитория.**
-
----
 
 ## ✨ Features / Возможности
 
@@ -78,8 +75,6 @@
 | **Blocked Trackers** | Count of tracker scripts blocked (e.g., 0) | Количество заблокированных трекеров |
 | **Session Timer** | Active protection duration (e.g., 0h 27m 15s) | Время активной защиты сессии |
 | **Total Protected** | Cumulative protection time (e.g., 6h 24m) | Общее время под защитой |
-
----
 
 ### 🔧 Core Protection Features / Основные функции защиты
 
@@ -99,8 +94,6 @@
 | 12 | **Timezone Spoofing** | **Подмена часового пояса** | ✅ | Spoof timezone with live clock display (HH:MM:SS). Auto-sync with IP available. / Подмена таймзоны с живыми часами (ЧЧ:ММ:СС). Автонастройка по IP доступна. |
 | 13 | **TURN Server Configuration** | **Настройка TURN-сервера** | ✅ | Custom TURN server for WebRTC relay. Warning dialog confirms user trust before activation. / Пользовательский TURN-сервер. Диалог подтверждения доверия перед активацией. |
 | 14 | **Do Not Track / Cookies** | **Do Not Track / Cookies** | ⚠️ | Sends DNT signal when enabled. Disabled by default to avoid fingerprinting. / Отправляет сигнал DNT при включении. Выключено по умолчанию. |
-
----
 
 ### 🔍 Compatibility Tab — Вкладка совместимости
 
@@ -123,8 +116,6 @@ Nothing сканирует браузер и отображает информа
 > **RU:** Nothing не может видеть, что именно делает другое расширение на странице — браузер не даёт такого доступа. Если рядом активны похожие инструменты, Nothing аккуратнее относится к кукам и CDN-подмене на этой странице, чтобы не спорить с ними и не сломать сайт.
 
 </details>
-
----
 
 ### 🌐 Timezone Showcase — Выбор часового пояса
 
@@ -181,8 +172,6 @@ Nothing сканирует браузер и отображает информа
 
 </div>
 
----
-
 ## 🚀 Installation / Установка
 
 | Step | 📝 Action (EN) | 📝 Действие (RU) |
@@ -212,8 +201,6 @@ Nothing сканирует браузер и отображает информа
 
 </div>
 
----
-
 ## 🛡️ Security Notes / Примечания по безопасности
 
 | 🔒 Feature / Функция | 🎯 Why It Matters / Зачем это нужно |
@@ -223,8 +210,6 @@ Nothing сканирует браузер и отображает информа
 | **Auto Timezone Sync** | Eliminates timezone/IP mismatch. A mismatch exposes you stronger than having no spoofing at all. / Рассинхрон выдаст вас сильнее, чем отсутствие подмены. |
 | **Adaptive Aggression** | Scales protection based on how aggressively a site tries to fingerprint you. / Масштабирует агрессивность шума в зависимости от трекеров на сайте. |
 | **Compatible Coexistence** | Works alongside uBlock Origin, Privacy Badger, Decentraleyes without conflicts. / Работает вместе с другими расширениями без конфликтов. |
-
----
 
 <div align="center">
 
