@@ -9,16 +9,17 @@
 <!-- Browser Support -->
 <p align="center">
   <a href="https://github.com/VexCrux/Nothing.Expansion/releases">
-    <img src="https://img.shields.io/badge/%F0%9F%94%B6_v0.2.3-Stable-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Version"/>
+    <img src="https://img.shields.io/badge/%F0%9F%94%B6_v0.2.3-2c2c2c?style=for-the-badge&logo=github&logoColor=white" alt="Version"/>
   </a>
+  <img src="https://img.shields.io/badge/STABLE-2ea44f?style=for-the-badge" alt="Stable"/>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome" alt="Chrome"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave" alt="Brave"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge" alt="Edge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vivaldi-EB6238?style=for-the-badge&logo=vivaldi" alt="Vivaldi"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera" alt="Opera"></a>
+  <a href="#"><img src="https://img.shields.io/badge/CHROME-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome"></a>
+  <a href="#"><img src="https://img.shields.io/badge/BRAVE-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Brave"></a>
+  <a href="#"><img src="https://img.shields.io/badge/EDGE-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Edge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/VIVALDI-FB6C42?style=for-the-badge&logo=vivaldi&logoColor=white" alt="Vivaldi"></a>
+  <a href="#"><img src="https://img.shields.io/badge/OPERA-EF3939?style=for-the-badge&logo=opera&logoColor=white" alt="Opera"></a>
 </p>
 
 <p align="center">
