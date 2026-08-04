@@ -19,15 +19,20 @@
     <a href="#" title="Brave"><img src="https://img.shields.io/badge/Brave-FF2929?logo=brave&logoColor=white&style=plastic" alt="Brave"><img src="https://img.shields.io/badge/~1.5%25-FF2929?style=plastic" alt="1.5%"></a>
   </p>
 
-  <!-- Author - как на скрине, но теперь работает на GitHub -->
+  <!-- Author - БОЛЬШАЯ АВАТАРКА + НИК -->
   <p align="center">
-    <a href="https://github.com/VexCrux" style="text-decoration: none;">
-      <img src="https://github.com/VexCrux.png" width="24" height="24" style="border-radius:50%; vertical-align: middle;" alt="VexCrux">
-      <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=plastic&logo=github&logoColor=white" alt="@VexCrux" style="vertical-align: middle;">
+    <a href="https://github.com/VexCrux">
+      <img src="https://github.com/VexCrux.png" width="88" height="88" style="border-radius:50%;" alt="VexCrux">
     </a>
+    <br><br>
+    <a href="https://github.com/VexCrux" style="text-decoration: none; color: white;">
+      <strong style="font-size: 17px;">VexCrux</strong>
+    </a>
+    <br>
+    <sub>@VexCrux • Author</sub>
   </p>
 
-  <!-- Stars / Forks / Downloads / Last commit - как было -->
+  <!-- Stats - твои старые звезды / загрузки -->
   <p align="center">
     <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/badge/Stars-1-lightgrey?style=plastic&logo=github" alt="Stars"></a>
     <a href="https://github.com/VexCrux/Nothing.Expansion/network/members"><img src="https://img.shields.io/badge/Forks-0-lightgrey?style=plastic&logo=github" alt="Forks"></a>
