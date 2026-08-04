@@ -3,55 +3,55 @@
 <!-- Language Switcher -->
 <p align="center">
   <img src="https://img.shields.io/badge/all languages-Active-2ea44f?style=plastic&logo=googletranslate&logoColor=white" alt="Russian">
-<!-- Final Browser Support (Bug-Free Version) -->
 <br>
+<div align="center">
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+  <!-- Version + Status -->
+  <p align="center">
+    <a href="https://github.com/VexCrux/Nothing.Expansion/releases/latest">
+      <img src="https://img.shields.io/github/v/release/VexCrux/Nothing.Expansion?label=VERSION&labelColor=101010&color=3d53d7&style=for-the-badge&logo=github&logoColor=white" alt="Version">
+    </a>
+    <img src="https://img.shields.io/badge/STATUS-STABLE-2ea44f?style=for-the-badge&labelColor=101010" alt="Stable">
+  </p>
 
-  <!-- БЛОК 1: Статус проекта и Версия (Сжатый) -->
-  <div align="center" style="display: flex; gap: 0px;">
-    <a href="https://github.com/VexCrux/Nothing.Expansion/releases/latest"><img src="https://img.shields.io/github/v/release/VexCrux/Nothing.Expansion?color=424242&label=Version&logo=github&logoColor=white&style=plastic" alt="GitHub Release"></a><img src="https://img.shields.io/badge/Status-Stable-2ea44f?logo=circleci&logoColor=white&style=plastic" alt="Stability">
-  </div>
+  <!-- Browsers -->
+  <p align="center">
+    <a href="#" title="Chrome"><img src="https://img.shields.io/badge/Chrome-~65%25-4285F4?style=flat-square&logo=google-chrome&logoColor=white&labelColor=161b22" alt="Chrome"></a>
+    <a href="#" title="Edge"><img src="https://img.shields.io/badge/Edge-~5%25-0078d7?style=flat-square&logo=microsoft-edge&logoColor=white&labelColor=161b22" alt="Edge"></a>
+    <a href="#" title="Opera"><img src="https://img.shields.io/badge/Opera-~3%25-FF1B2D?style=flat-square&logo=opera&logoColor=white&labelColor=161b22" alt="Opera"></a>
+    <a href="#" title="Brave"><img src="https://img.shields.io/badge/Brave-~1.5%25-FF2929?style=flat-square&logo=brave&logoColor=white&labelColor=161b22" alt="Brave"></a>
+  </p>
 
-  <!-- БЛОК 2: Браузеры с долей рынка (Сжатый для устранения багов) -->
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1px;">
-    <!-- Chrome -->
-    <a href="#" title="Chrome Web Store" style="text-decoration: none;"><img src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white&style=plastic" alt="Chrome"><img src="https://img.shields.io/badge/~65%25-4285F4?style=plastic" alt="65% User market share"></a>
-    <!-- Edge -->
-    <a href="#" title="Edge Add-ons" style="text-decoration: none;"><img src="https://img.shields.io/badge/Edge-0078d7?logo=microsoft-edge&logoColor=white&style=plastic" alt="Edge"><img src="https://img.shields.io/badge/~5%25-0078d7?style=plastic" alt="5% User market share"></a>
-    <!-- Opera -->
-    <a href="#" title="Opera Add-ons" style="text-decoration: none;"><img src="https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=white&style=plastic" alt="Opera"><img src="https://img.shields.io/badge/~3%25-FF1B2D?style=plastic" alt="3% User market share"></a>
-    <!-- Brave -->
-    <a href="#" title="Brave Store" style="text-decoration: none;"><img src="https://img.shields.io/badge/Brave-FF2929?logo=brave&logoColor=white&style=plastic" alt="Brave"><img src="https://img.shields.io/badge/~1.5%25-FF2929?style=plastic" alt="1.5% User market share"></a>
-  </div>
+  <!-- Author - Кнопки ПОД аватаркой -->
+  <p align="center">
+    <a href="https://github.com/VexCrux">
+      <img src="https://github.com/VexCrux.png" width="72" height="72" style="border-radius:50%;" alt="VexCrux">
+    </a>
+    <br><br>
+    <a href="https://github.com/VexCrux">
+      <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="@VexCrux">
+    </a>
+    <br>
+    <sub>Author & Maintainer of <strong>Nothing.Expansion</strong></sub>
+  </p>
+
+  <!-- Stats -->
+  <p align="center">
+    <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?label=Stars&style=flat-square&labelColor=161b22&color=0d1117" alt="Stars"></a>
+    <a href="https://github.com/VexCrux/Nothing.Expansion/network/members"><img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?label=Forks&style=flat-square&labelColor=161b22&color=0d1117" alt="Forks"></a>
+    <img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?label=Downloads&style=flat-square&labelColor=161b22&color=0d1117" alt="Downloads">
+    <img src="https://img.shields.io/github/last-commit/VexCrux/Nothing.Expansion?label=Last%20commit&style=flat-square&labelColor=161b22&color=0d1117" alt="Last commit">
+  </p>
+
+  <!-- Navigation - Красивые pill кнопки -->
+  <p align="center">
+    <a href="#-features--возможности"><img src="https://img.shields.io/badge/Features-3d53d7?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=161b22" alt="Features"></a>
+    <a href="#-installation--установка"><img src="https://img.shields.io/badge/Install-3d53d7?style=for-the-badge&logo=rocket&logoColor=white&labelColor=161b22" alt="Install"></a>
+    <a href="#-timezone-showcase--часовые-пояса"><img src="https://img.shields.io/badge/Timezones-3d53d7?style=for-the-badge&logo=googlearth&logoColor=white&labelColor=161b22" alt="Timezones"></a>
+  </p>
 
 </div>
-
-<!--
-  Author Section - Premium Styling (Improved Original)
--->
-<p align="center">
-  <a href="https://github.com/VexCrux" style="text-decoration:none; display:inline-flex; align-items:center; gap:12px; background:#181717; border:1px solid #3d53d7; padding:8px 18px 8px 8px; border-radius: 100px;">
-    <img src="https://github.com/VexCrux.png" width="32" height="32" style="border-radius:50%;" alt="VexCrux">
-    <span style="color:white; font-weight:600; font-size:14px;">@VexCrux</span>
-    <span style="color:#8b949e; font-size:14px;">↗</span>
-  </a>
-</p>
-
-<!-- Quick Stats -->
-<p align="center">
-  <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=social" alt="Stars"></a>
-  <a href="https://github.com/VexCrux/Nothing.Expansion/network/members"><img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=social" alt="Forks"></a>
-  <a href="https://github.com/VexCrux/Nothing.Expansion/releases"><img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?style=social&logo=github" alt="Downloads"></a>
-  <a href="https://github.com/VexCrux/Nothing.Expansion/commits/main"><img src="https://img.shields.io/github/last-commit/VexCrux/Nothing.Expansion?style=social&logo=github" alt="Last Commit"></a>
-</p>
-
-<!-- Quick Navigation -->
-<p align="center">
-  <a href="#-features--возможности">✨ Features</a> •
-  <a href="#-installation--установка">🚀 Install</a> •
-  <a href="#-timezone-showcase--часовые-пояса">🌍 Timezones</a> 
-</p>
+<br>
 
 ---
 
