@@ -17,7 +17,10 @@
 
 <!-- Author -->
 <p align="center">
-  <a href="https://github.com/VexCrux"><img src="https://img.shields.io/badge/GitHub-VexCrux-3d53d7?style=for-the-badge&logo=github&logoColor=white" alt="VexCrux"/></a>
+  <img src="https://github.com/VexCrux.png" width="80" alt="VexCrux"/><br>
+  <a href="https://github.com/VexCrux">
+    <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
 </p>
 
 <!-- Quick Stats -->
