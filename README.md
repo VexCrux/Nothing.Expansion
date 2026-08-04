@@ -17,9 +17,9 @@
 
 <!-- Author -->
 <p align="center">
-  <img src="https://github.com/VexCrux.png" width="100" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(61, 83, 215, 0.4);" alt="VexCrux"/><br>
+  <img src="https://github.com/VexCrux.png" width="100" style="border-radius: 25px;" alt="VexCrux"/><br>
   <a href="https://github.com/VexCrux">
-    <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
 </p>
 
