@@ -24,12 +24,9 @@
     <a href="https://github.com/VexCrux">
       <img src="https://github.com/VexCrux.png" width="88" height="88" style="border-radius:50%;" alt="VexCrux">
     </a>
-    <br><br>
     <a href="https://github.com/VexCrux" style="text-decoration: none; color: white;">
       <strong style="font-size: 17px;">VexCrux</strong>
     </a>
-    <br>
-    <sub>@VexCrux • Author</sub>
   </p>
 
   <!-- Stats - твои старые звезды / загрузки -->
