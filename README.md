@@ -8,46 +8,38 @@
 
   <!-- Version + Status -->
   <p align="center">
-    <a href="https://github.com/VexCrux/Nothing.Expansion/releases/latest">
-      <img src="https://img.shields.io/github/v/release/VexCrux/Nothing.Expansion?label=VERSION&labelColor=101010&color=3d53d7&style=for-the-badge&logo=github&logoColor=white" alt="Version">
+    <a href="https://github.com/VexCrux/Nothing.Expansion/releases/latest"><img src="https://img.shields.io/github/v/release/VexCrux/Nothing.Expansion?label=Version&color=424242&logo=github&logoColor=white&style=plastic" alt="Version"></a><img src="https://img.shields.io/badge/Status-Stable-2ea44f?logo=check-circle&logoColor=white&style=plastic" alt="Stable">
+  </p>
+
+  <!-- Browsers - твой double-badge без багов -->
+  <p align="center">
+    <a href="#" title="Chrome"><img src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white&style=plastic" alt="Chrome"><img src="https://img.shields.io/badge/~65%25-4285F4?style=plastic" alt="65%"></a>
+    <a href="#" title="Edge"><img src="https://img.shields.io/badge/Edge-0078d7?logo=microsoft-edge&logoColor=white&style=plastic" alt="Edge"><img src="https://img.shields.io/badge/~5%25-0078d7?style=plastic" alt="5%"></a>
+    <a href="#" title="Opera"><img src="https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=white&style=plastic" alt="Opera"><img src="https://img.shields.io/badge/~3%25-FF1B2D?style=plastic" alt="3%"></a>
+    <a href="#" title="Brave"><img src="https://img.shields.io/badge/Brave-FF2929?logo=brave&logoColor=white&style=plastic" alt="Brave"><img src="https://img.shields.io/badge/~1.5%25-FF2929?style=plastic" alt="1.5%"></a>
+  </p>
+
+  <!-- Author - как на скрине, но теперь работает на GitHub -->
+  <p align="center">
+    <a href="https://github.com/VexCrux" style="text-decoration: none;">
+      <img src="https://github.com/VexCrux.png" width="24" height="24" style="border-radius:50%; vertical-align: middle;" alt="VexCrux">
+      <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=plastic&logo=github&logoColor=white" alt="@VexCrux" style="vertical-align: middle;">
     </a>
-    <img src="https://img.shields.io/badge/STATUS-STABLE-2ea44f?style=for-the-badge&labelColor=101010" alt="Stable">
   </p>
 
-  <!-- Browsers -->
+  <!-- Stars / Forks / Downloads / Last commit - как было -->
   <p align="center">
-    <a href="#" title="Chrome"><img src="https://img.shields.io/badge/Chrome-~65%25-4285F4?style=flat-square&logo=google-chrome&logoColor=white&labelColor=161b22" alt="Chrome"></a>
-    <a href="#" title="Edge"><img src="https://img.shields.io/badge/Edge-~5%25-0078d7?style=flat-square&logo=microsoft-edge&logoColor=white&labelColor=161b22" alt="Edge"></a>
-    <a href="#" title="Opera"><img src="https://img.shields.io/badge/Opera-~3%25-FF1B2D?style=flat-square&logo=opera&logoColor=white&labelColor=161b22" alt="Opera"></a>
-    <a href="#" title="Brave"><img src="https://img.shields.io/badge/Brave-~1.5%25-FF2929?style=flat-square&logo=brave&logoColor=white&labelColor=161b22" alt="Brave"></a>
+    <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/badge/Stars-1-lightgrey?style=plastic&logo=github" alt="Stars"></a>
+    <a href="https://github.com/VexCrux/Nothing.Expansion/network/members"><img src="https://img.shields.io/badge/Forks-0-lightgrey?style=plastic&logo=github" alt="Forks"></a>
+    <img src="https://img.shields.io/badge/Downloads-3-lightgrey?style=plastic&logo=github" alt="Downloads">
+    <img src="https://img.shields.io/badge/Last%20commit-today-lightgrey?style=plastic&logo=github" alt="Last commit">
   </p>
 
-  <!-- Author - Кнопки ПОД аватаркой -->
+  <!-- Navigation -->
   <p align="center">
-    <a href="https://github.com/VexCrux">
-      <img src="https://github.com/VexCrux.png" width="72" height="72" style="border-radius:50%;" alt="VexCrux">
-    </a>
-    <br><br>
-    <a href="https://github.com/VexCrux">
-      <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="@VexCrux">
-    </a>
-    <br>
-    <sub>Author & Maintainer of <strong>Nothing.Expansion</strong></sub>
-  </p>
-
-  <!-- Stats -->
-  <p align="center">
-    <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?label=Stars&style=flat-square&labelColor=161b22&color=0d1117" alt="Stars"></a>
-    <a href="https://github.com/VexCrux/Nothing.Expansion/network/members"><img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?label=Forks&style=flat-square&labelColor=161b22&color=0d1117" alt="Forks"></a>
-    <img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?label=Downloads&style=flat-square&labelColor=161b22&color=0d1117" alt="Downloads">
-    <img src="https://img.shields.io/github/last-commit/VexCrux/Nothing.Expansion?label=Last%20commit&style=flat-square&labelColor=161b22&color=0d1117" alt="Last commit">
-  </p>
-
-  <!-- Navigation - Красивые pill кнопки -->
-  <p align="center">
-    <a href="#-features--возможности"><img src="https://img.shields.io/badge/Features-3d53d7?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=161b22" alt="Features"></a>
-    <a href="#-installation--установка"><img src="https://img.shields.io/badge/Install-3d53d7?style=for-the-badge&logo=rocket&logoColor=white&labelColor=161b22" alt="Install"></a>
-    <a href="#-timezone-showcase--часовые-пояса"><img src="https://img.shields.io/badge/Timezones-3d53d7?style=for-the-badge&logo=googlearth&logoColor=white&labelColor=161b22" alt="Timezones"></a>
+    <a href="#-features--возможности">✨ Features</a> •
+    <a href="#-installation--установка">🚀 Install</a> •
+    <a href="#-timezone-showcase--часовые-пояса">🌍 Timezones</a>
   </p>
 
 </div>
