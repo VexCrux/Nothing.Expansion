@@ -40,15 +40,14 @@
 </p>
 
   <!-- Navigation -->
-  <p align="center">
-    <a href="#-features--возможности">✨ Features</a> •
-    <a href="#-installation--установка">🚀 Install</a> •
-    <a href="#-timezone-showcase--часовые-пояса">🌍 Timezones</a>
-  </p>
+<p align="center">
+  <a href="#-features--возможности"><img src="https://img.shields.io/badge/%20Features-3d53d7?style=plastic&logo=sparkles&logoColor=white" alt="Features"></a>
+  <a href="#-installation--установка"><img src="https://img.shields.io/badge/%20Install-3d53d7?style=plastic&logo=rocket&logoColor=white" alt="Install"></a>
+  <a href="#-timezone-showcase--часовые-пояса"><img src="https://img.shields.io/badge/%20Timezones-3d53d7?style=plastic&logo=googlearth&logoColor=white" alt="Timezones"></a>
+</p>
 
 </div>
 <br>
-
 ---
 
 ## ⚠️ Disclaimer / Предупреждение
