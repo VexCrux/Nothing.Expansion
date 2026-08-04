@@ -6,13 +6,23 @@
   <img src="https://img.shields.io/badge/all languages-Active-2ea44f?style=plastic&logo=googletranslate&logoColor=white" alt="Russian">
 </p>
 
-<!-- Browser Badges -->
+<!-- Browsers Nothing Works On -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white&style=plastic" alt="Chrome">
-  <img src="https://img.shields.io/badge/Edge-Extension-0078D7?logo=microsoftedge&logoColor=white&style=plastic" alt="Edge">
-  <img src="https://img.shields.io/badge/Brave-Extension-FB542B?logo=brave&logoColor=white&style=plastic" alt="Brave">
-  <img src="https://img.shields.io/badge/Version-0.2.3-3d53d7?style=plastic" alt="Version">
-  <img src="https://img.shields.io/badge/Status-Stable-2ea44f?style=plastic" alt="Status">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96_Compatability-Works_on_All_Browsers-3d53d7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Compatibility"/>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome" alt="Chrome"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=brave" alt="Brave"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=microsoftedge" alt="Edge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firefox-AA0000?style=flat-square&logo=firefox" alt="Firefox"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vivaldi-EB6238?style=flat-square&logo=vivaldi" alt="Vivaldi"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Opera-FF1B2D?style=flat-square&logo=opera" alt="Opera"></a>
+</p>
+
+<p align="center">
+  <small>Nothing Extension supports all major browsers based on Chromium & Gecko engines</small><br>
+  <small>Расширение Nothing поддерживает все основные браузеры на движках Chromium и Gecko</small>
 </p>
 
 <!-- Author -->
