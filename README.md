@@ -24,9 +24,7 @@
   <a href="https://github.com/VexCrux">
     <img src="https://github.com/VexCrux.png" width="80" height="80" style="border-radius:50%;" alt="VexCrux">
   </a>
-  <br><br>
   <strong>VexCrux</strong>
-  <br>
   <a href="https://github.com/VexCrux">
     <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=plastic&logo=github&logoColor=white" alt="@VexCrux">
   </a>
