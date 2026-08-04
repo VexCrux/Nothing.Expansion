@@ -32,12 +32,10 @@
 </p>
 
   <!-- Stats - твои старые звезды / загрузки -->
-  <p align="center">
-    <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/badge/Stars-1-lightgrey?style=plastic&logo=github" alt="Stars"></a>
-    <a href="https://github.com/VexCrux/Nothing.Expansion/network/members"><img src="https://img.shields.io/badge/Forks-0-lightgrey?style=plastic&logo=github" alt="Forks"></a>
-    <img src="https://img.shields.io/badge/Downloads-3-lightgrey?style=plastic&logo=github" alt="Downloads">
-    <img src="https://img.shields.io/badge/Last%20commit-today-lightgrey?style=plastic&logo=github" alt="Last commit">
-  </p>
+<p align="center">
+  <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/badge/STARS-1-grey?style=for-the-badge&logo=github" alt="Stars"></a>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/network/members"><img src="https://img.shields.io/badge/FORKS-0-grey?style=for-the-badge&logo=github" alt="Forks"></a>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/releases"><img src="https://img.shields.io/badge/DOWNLOADS-3-yellow?style=for-the-badge&logo=github" alt="Downloads"></a>
 
   <!-- Navigation -->
   <p align="center">
