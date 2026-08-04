@@ -32,7 +32,7 @@
     <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/github/stars/VexCrux/Nothing.Expansion?style=social" alt="Star"></a>
   </a>
   <a href="https://github.com/VexCrux/Nothing.Expansion/network/members">
-    <img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=plastic&logo=github&label=Forks" alt="Forks"/>
+    <a href="https://github.com/VexCrux/Nothing.Expansion/stargazers"><img src="https://img.shields.io/github/forks/VexCrux/Nothing.Expansion?style=social" alt="Forks"></a>
   </a>
   <a href="https://github.com/VexCrux/Nothing.Expansion/releases">
     <img src="https://img.shields.io/github/downloads/VexCrux/Nothing.Expansion/total?style=plastic&logo=github&label=Downloads" alt="Downloads"/>
