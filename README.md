@@ -8,53 +8,59 @@
 
 <!-- Browser Support -->
 <!--
-  VexCrux/Nothing.Expansion - Browser Support
-  Styling: Flat-Square, Monochrome, Specific Browsers
+  VexCrux/Nothing.Expansion - Final Version
+  Styling: Plastic, Integrated with Browser Stats
 -->
-
-<p align="center">
-  <!-- Версия (динамическая) -->
-  <a href="https://github.com/VexCrux/Nothing.Expansion/releases/latest">
-    <img src="https://img.shields.io/github/v/release/VexCrux/Nothing.Expansion?color=555&label=Версия&logo=github&logoColor=white&style=flat-square" alt="GitHub Release">
-  </a>
-  <!-- Стабильность (статическая) -->
-  <img src="https://img.shields.io/badge/Статус-Стабильный-brightgreen?style=flat-square" alt="Stability">
-</p>
 
 <br>
 
-<!-- Центрированный список браузеров -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
 
-  <!-- 1. Chrome (Самый популярный) -->
-  <a href="#" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white&style=flat-square" alt="Chrome" />
-    <img src="https://img.shields.io/badge/~65%25-4285F4?style=flat-square" alt="65% market share" />
-  </a>
+  <!-- БЛОК 1: Статус проекта и Версия (Стиль Plastic) -->
+  <div align="center" style="display: flex; gap: 0px;">
+    <!-- Версия (Автоматическая) -->
+    <a href="https://github.com/VexCrux/Nothing.Expansion/releases/latest">
+      <img src="https://img.shields.io/github/v/release/VexCrux/Nothing.Expansion?color=424242&label=Версия&logo=github&logoColor=white&style=plastic" alt="GitHub Release">
+    </a>
+    <!-- Стабильность -->
+    <img src="https://img.shields.io/badge/Статус-Стабильный-2ea44f?logo=circleci&logoColor=white&style=plastic" alt="Stability">
+  </div>
 
-  <!-- 2. Edge (Встроенный в Windows) -->
-  <a href="#" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/Edge-0078d7?logo=microsoft-edge&logoColor=white&style=flat-square" alt="Edge" />
-    <img src="https://img.shields.io/badge/~5%25-0078d7?style=flat-square" alt="5% market share" />
-  </a>
+  <!-- БЛОК 2: Браузеры с долей рынка (Стиль Plastic) -->
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
 
-  <!-- 3. Opera -->
-  <a href="#" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=white&style=flat-square" alt="Opera" />
-    <img src="https://img.shields.io/badge/~3%25-FF1B2D?style=flat-square" alt="3% market share" />
-  </a>
+    <!-- Chrome -->
+    <a href="#" title="Chrome Web Store" style="margin: 2px;">
+      <img src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white&style=plastic" alt="Chrome">
+      <img src="https://img.shields.io/badge/~65%25-4285F4?style=plastic" alt="65% market share">
+    </a>
 
-  <!-- 4. Brave (Фокус на приватности) -->
-  <a href="#" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/Brave-FF2929?logo=brave&logoColor=white&style=flat-square" alt="Brave" />
-    <img src="https://img.shields.io/badge/~1.5%25-FF2929?style=flat-square" alt="1.5% market share" />
-  </a>
+    <!-- Edge -->
+    <a href="#" title="Edge Add-ons" style="margin: 2px;">
+      <img src="https://img.shields.io/badge/Edge-0078d7?logo=microsoft-edge&logoColor=white&style=plastic" alt="Edge">
+      <img src="https://img.shields.io/badge/~5%25-0078d7?style=plastic" alt="5% market share">
+    </a>
+
+    <!-- Opera -->
+    <a href="#" title="Opera Add-ons" style="margin: 2px;">
+      <img src="https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=white&style=plastic" alt="Opera">
+      <img src="https://img.shields.io/badge/~3%25-FF1B2D?style=plastic" alt="3% market share">
+    </a>
+
+    <!-- Brave -->
+    <a href="#" title="Brave Store" style="margin: 2px;">
+      <img src="https://img.shields.io/badge/Brave-FF2929?logo=brave&logoColor=white&style=plastic" alt="Brave">
+      <img src="https://img.shields.io/badge/~1.5%25-FF2929?style=plastic" alt="1.5% market share">
+    </a>
+
+  </div>
+
+  <!-- Мелкий текст с пояснением -->
+  <p align="center">
+    <sub style="color: #888;"><em>*Приблизительная глобальная доля рынка (данные StatCounter)</em></sub>
+  </p>
 
 </div>
-
-<p align="center">
-  <sub style="color: #888;"><em>*Приблизительная глобальная доля рынка (округленные данные StatCounter)</em></sub>
-</p>
 
 <!-- Author -->
 <p align="center">
