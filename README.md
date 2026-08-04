@@ -36,15 +36,15 @@
 
 <!-- Opera -->
 <a href="#" title="Opera Add-ons" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=white&style=plastic" alt="Opera">
-      <img src="https://img.shields.io/badge/~3%25-FF1B2D?style=plastic" alt="3% market share">
-    </a>
+<img src="https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=white&style=plastic" alt="Opera">
+<img src="https://img.shields.io/badge/~3%25-FF1B2D?style=plastic" alt="3% market share">
+</a>
 
     <!-- Brave -->
 <a href="#" title="Brave Store" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Brave-FF2929?logo=brave&logoColor=white&style=plastic" alt="Brave">
-      <img src="https://img.shields.io/badge/~1.5%25-FF2929?style=plastic" alt="1.5% market share">
-    </a>
+<img src="https://img.shields.io/badge/Brave-FF2929?logo=brave&logoColor=white&style=plastic" alt="Brave">
+<img src="https://img.shields.io/badge/~1.5%25-FF2929?style=plastic" alt="1.5% market share">
+</a>
 
   </div>
 
