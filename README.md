@@ -36,7 +36,6 @@
   <a href="#-features--возможности">✨ Features</a> •
   <a href="#-installation--установка">🚀 Install</a> •
   <a href="#-timezone-showcase--часовые-пояса">🌍 Timezones</a> •
-  <a href="#-roadmap--планы-развития">🗺️ Roadmap</a>
 </p>
 
 ---
