@@ -6,23 +6,28 @@
   <img src="https://img.shields.io/badge/all languages-Active-2ea44f?style=plastic&logo=googletranslate&logoColor=white" alt="Russian">
 </p>
 
-<!-- Browsers Nothing Works On -->
+<!-- Browser Support & Version -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96_Compatability-Works_on_All_Browsers-3d53d7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Compatibility"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorLine=0,3d53d7&customColorEnd=100,3d53d7&height=40&section=header&text=&fontSize=0&revelation=false&fontColor=transparent&desc=&descSize=0" alt="divider"/>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome" alt="Chrome"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=brave" alt="Brave"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=microsoftedge" alt="Edge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firefox-AA0000?style=flat-square&logo=firefox" alt="Firefox"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vivaldi-EB6238?style=flat-square&logo=vivaldi" alt="Vivaldi"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Opera-FF1B2D?style=flat-square&logo=opera" alt="Opera"></a>
+  <a href="https://github.com/VexCrux/Nothing.Expansion/releases"><img src="https://img.shields.io/badge/VERSION-0.2.3-3d53d7?style=for-the-badge&logo=github&logoColor=white" alt="Version"></a>
 </p>
 
 <p align="center">
-  <small>Nothing Extension supports all major browsers based on Chromium & Gecko engines</small><br>
-  <small>Расширение Nothing поддерживает все основные браузеры на движках Chromium и Gecko</small>
+  <a href="#"><img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Edge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Brave"></a>
+</p>
+
+<p align="center">
+  <small>Nothing works on all Chromium-based browsers</small><br>
+  <small>Nothing работает на всех Chromium-браузерах</small>
+</p>
+
+<p align="center">
+  <img src="https://capsule-writer.vercel.app/api?type=rect&color=0,5372e0,100,3d53d7&height=40&section=footer&text=&fontSize=0" alt="divider"/>
 </p>
 
 <!-- Author -->
