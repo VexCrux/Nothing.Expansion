@@ -19,18 +19,19 @@
     <a href="#" title="Brave"><img src="https://img.shields.io/badge/Brave-FF2929?logo=brave&logoColor=white&style=plastic" alt="Brave"><img src="https://img.shields.io/badge/~1.5%25-FF2929?style=plastic" alt="1.5%"></a>
   </p>
 
-<!-- Author - БОЛЬШАЯ АВАТАРКА + НИК -->
+<!-- Author-->
 <p align="center">
   <a href="https://github.com/VexCrux">
-    <img src="https://github.com/VexCrux.png" width="100" height="100" style="border-radius:50%;" alt="VexCrux">
+    <img src="https://github.com/VexCrux.png" width="80" height="80" style="border-radius:50%;" alt="VexCrux">
   </a>
   <br><br>
-  <strong>VexCrux</strong><br>
+  <strong>VexCrux</strong>
   <a href="https://github.com/VexCrux">
-    <img src="https://img.shields.io/badge/GitHub-3d53d7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=plastic&logo=github&logoColor=white" alt="@VexCrux">
   </a>
+  <br><br>
   <a href="https://steamcommunity.com/profiles/76561199475056100/">
-    <img src="https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+    <img src="https://img.shields.io/badge/@VexCrux-1b2838?style=plastic&logo=steam&logoColor=white" alt="@VexCrux">
   </a>
 </p>
 
