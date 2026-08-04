@@ -20,14 +20,17 @@
   </p>
 
   <!-- Author - БОЛЬШАЯ АВАТАРКА + НИК -->
-  <p align="center">
-    <a href="https://github.com/VexCrux">
-      <img src="https://github.com/VexCrux.png" width="88" height="88" style="border-radius:50%;" alt="VexCrux">
-    </a>
-    <a href="https://github.com/VexCrux" style="text-decoration: none; color: white;">
-      <strong style="font-size: 17px;">VexCrux</strong>
-    </a>
-  </p>
+<p align="center">
+  <a href="https://github.com/VexCrux">
+    <img src="https://github.com/VexCrux.png" width="80" height="80" style="border-radius:50%;" alt="VexCrux">
+  </a>
+  <br><br>
+  <strong>VexCrux</strong>
+  <br>
+  <a href="https://github.com/VexCrux">
+    <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=plastic&logo=github&logoColor=white" alt="@VexCrux">
+  </a>
+</p>
 
   <!-- Stats - твои старые звезды / загрузки -->
   <p align="center">
