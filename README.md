@@ -19,15 +19,18 @@
     <a href="#" title="Brave"><img src="https://img.shields.io/badge/Brave-FF2929?logo=brave&logoColor=white&style=plastic" alt="Brave"><img src="https://img.shields.io/badge/~1.5%25-FF2929?style=plastic" alt="1.5%"></a>
   </p>
 
-  <!-- Author - БОЛЬШАЯ АВАТАРКА + НИК -->
+<!-- Author - БОЛЬШАЯ АВАТАРКА + НИК -->
 <p align="center">
   <a href="https://github.com/VexCrux">
-    <img src="https://github.com/VexCrux.png" width="80" height="80" style="border-radius:50%;" alt="VexCrux">
+    <img src="https://github.com/VexCrux.png" width="100" height="100" style="border-radius:50%;" alt="VexCrux">
   </a>
   <br><br>
-  <strong>VexCrux</strong>
+  <strong>VexCrux</strong><br>
   <a href="https://github.com/VexCrux">
-    <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=plastic&logo=github&logoColor=white" alt="@VexCrux">
+    <img src="https://img.shields.io/badge/GitHub-3d53d7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561199475056100/">
+    <img src="https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
   </a>
 </p>
 
@@ -194,36 +197,6 @@ Nothing сканирует браузер и отображает информа
 
 ---
 
-## 🗺️ Roadmap / Планы развития
-
-<div align="center">
-
-| Status | Feature / Функция |
-|:------:|---|
-| ✅ | Traffic monitor with real-time stats |
-| ✅ | User-Agent / Platform / WebGL spoofing |
-| ✅ | System profiles (Win 10/11, macOS, Linux) |
-| ✅ | Canvas & Audio fingerprint noise with unique hash |
-| ✅ | Adaptive noise aggression (toggle available) |
-| ✅ | WebRTC IP-leak prevention + whitelist |
-| ✅ | Timezone spoofing with live clock display |
-| ✅ | IP auto-sync for timezone matching |
-| ✅ | TURN server configuration with confirmation dialog |
-| ✅ | Compatibility tab with extension detection |
-| ✅ | Version display for detected extensions |
-| ✅ | Brave Shields integration notice |
-| ✅ | Yandex promo-block cosmetic filter |
-| 🔜 | Activity logs panel with filtering |
-| 🔜 | Custom profile builder completion |
-| 🔜 | Auto-repair engine |
-| 🔜 | OS icon spoofing (Windows version fingerprint) |
-| 🔜 | Smooth tab transitions (Трафик ↔ Совместимость) |
-| 🔜 | Extended timezone list (+ 50 more cities) |
-
-</div>
-
----
-
 ## ⚙️ Tech Stack
 
 <div align="center">
@@ -249,38 +222,6 @@ Nothing сканирует браузер и отображает информа
 | **Auto Timezone Sync** | Eliminates timezone/IP mismatch. A mismatch exposes you stronger than having no spoofing at all. / Рассинхрон выдаст вас сильнее, чем отсутствие подмены. |
 | **Adaptive Aggression** | Scales protection based on how aggressively a site tries to fingerprint you. / Масштабирует агрессивность шума в зависимости от трекеров на сайте. |
 | **Compatible Coexistence** | Works alongside uBlock Origin, Privacy Badger, Decentraleyes without conflicts. / Работает вместе с другими расширениями без конфликтов. |
-
----
-
-## 📝 Changelog / История изменений
-
-### v0.2.3 (Current — Stable)
-- ✅ Added live clock display for timezone spoofing (HH:MM:SS)
-- ✅ Added compatibility tab with real extension scanning
-- ✅ Added version display for detected extensions (uBlock Origin v1.72.2, etc.)
-- ✅ Added Brave 151 detection with Shields integration notice
-- ✅ Expanded timezone database (Moscow, Kaliningrad, Yekaterinburg, Novosibirsk, Vladivostok, Minsk, London, Berlin, Paris, Madrid, Rome, Amsterdam, Warsaw, Istanbul, Dubai, Singapore, Delhi, New York, Chicago, Los Angeles, Toronto, São Paulo, Sydney)
-- ✅ Added custom profile builder (beta-test option)
-- ⚠️ Adaptive noise aggression is now toggleable (can be enabled/disabled)
-
-### v0.2.2
-- ✅ Added TURN server configuration panel
-- ✅ Added built-in anonymity check (fingerprint verification)
-- ✅ Added adaptive noise aggression slider
-- ✅ Improved traffic monitor with session timer
-
-### v0.2.1
-- ✅ Added timezone spoofing with IP auto-sync
-- ✅ Added screen resolution spoofing (non-destructive)
-- ✅ Added hardware parameters masking
-- ✅ Added anti-fraud/geo-tracker blocking
-
-### v0.2.0
-- ✅ Initial public beta release
-- ✅ Core fingerprint protection (Canvas, Audio, WebGL)
-- ✅ WebRTC IP-leak prevention
-- ✅ User-Agent and system spoofing
-- ✅ Traffic monitor panel
 
 ---
 
