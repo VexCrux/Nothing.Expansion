@@ -7,18 +7,18 @@
 </p>
 
 <!-- Browser Support -->
-
-
+<p align="center">
+  <a href="https://github.com/VexCrux/Nothing.Expansion/releases">
+    <img src="https://img.shields.io/badge/🔶_v0.2.3-grey?style=for-the-badge&logo=github&logoColor=white" alt="Version"/>
+  </a>
+  <img src="https://img.shields.io/badge/✅_STABLE-green?style=for-the-badge" alt="Stable"/>
+</p>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/CHROME-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome"></a>
   <a href="#"><img src="https://img.shields.io/badge/BRAVE-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Brave"></a>
   <a href="#"><img src="https://img.shields.io/badge/EDGE-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Edge"></a>
   <a href="#"><img src="https://img.shields.io/badge/VIVALDI-FA6400?style=for-the-badge&logo=vivaldi&logoColor=white" alt="Vivaldi"></a>
   <a href="#"><img src="https://img.shields.io/badge/OPERA-EF3939?style=for-the-badge&logo=opera&logoColor=white" alt="Opera"></a>
-</p>
-
-<p align="center">
-  <sub>Supports all Chromium-based browsers • Поддерживает все Chromium-браузеры</sub>
 </p>
 
 <!-- Author -->
