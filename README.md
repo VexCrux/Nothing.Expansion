@@ -5,9 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/all languages-Active-2ea44f?style=plastic&logo=googletranslate&logoColor=white" alt="Russian">
 </p>
-
 <!-- Final Browser Support (Bug-Free Version) -->
-
 <br>
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
