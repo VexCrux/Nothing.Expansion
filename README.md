@@ -44,9 +44,9 @@
 
   <!-- Navigation -->
 <p align="center">
-  <a href="#-features--возможности"><img src="https://img.shields.io/badge/%20Features-3d53d7?style=plastic&logo=sparkles&logoColor=white" alt="Features"></a>
-  <a href="#-installation--установка"><img src="https://img.shields.io/badge/%20Install-3d53d7?style=plastic&logo=rocket&logoColor=white" alt="Install"></a>
-  <a href="#-timezone-showcase--часовые-пояса"><img src="https://img.shields.io/badge/%20Timezones-3d53d7?style=plastic&logo=googlearth&logoColor=white" alt="Timezones"></a>
+  <a href="#-features--возможности"><img src="https://img.shields.io/badge/Features-3d53d7?style=plastic&logo=bookstack&logoColor=white&labelColor=161b22" alt="Features"></a>
+  <a href="#-installation--установка"><img src="https://img.shields.io/badge/Install-3d53d7?style=plastic&logo=rocket&logoColor=white&labelColor=161b22" alt="Install"></a>
+  <a href="#-timezone-showcase--часовые-пояса"><img src="https://img.shields.io/badge/Timezones-3d53d7?style=plastic&logo=clockify&logoColor=white&labelColor=161b22" alt="Timezones"></a>
 </p>
 
 </div>
