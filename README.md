@@ -3,8 +3,7 @@
 
 <!-- Language Switcher -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🇷🇺_Русский-Active-2ea44f?style=plastic&logo=googletranslate&logoColor=white" alt="Russian">
-  <img src="https://img.shields.io/badge/🇬🇧_English-Active-2ea44f?style=plastic&logo=googletranslate&logoColor=white" alt="English">
+  <img src="https://img.shields.io/badge/all languages-Active-2ea44f?style=plastic&logo=googletranslate&logoColor=white" alt="Russian">
 </p>
 
 <!-- Browser Badges -->
