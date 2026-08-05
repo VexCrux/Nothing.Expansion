@@ -33,9 +33,9 @@
     <img src="https://img.shields.io/badge/My%20Steam-1b2838?style=plastic&logo=steam&logoColor=white" alt="Steam">
   </a>
   <br><br>
-  <a href="https://www.virustotal.com/gui/file/bb945d041f6ebe526538a072e08ac0731501aa68b4d37f2fc140996a69686ffd/detection">
-    <img src="https://img.shields.io/badge/VirusTotal-Safe 0/64 v0.0.8 -FB542B?style=plastic&logo=virustotal&logoColor=white" alt="VirusTotal">
-  </a>
+<a href="https://www.virustotal.com/gui/file/bb945d041f6ebe526538a072e08ac0731501aa68b4d37f2fc140996a69686ffd/detection">
+    <img src="https://img.shields.io/badge/VirusTotal-Safe_0/64_v0.0.8-3d53d7?style=plastic&logo=virustotal&logoColor=white" alt="VirusTotal Scan">
+</a>
 </p>
 
 <!-- Quick Stats -->
