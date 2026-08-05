@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0138b7,50:3d53d7,100:5372e0&height=180&section=header&text=NOTHING&fontSize=60&fontColor=b8ceff&animation=fadeIn&fontAlignY=35&desc=By%20VexCrux&descSize=18&descAlignY=55&descColor=a1b9f6" alt="Header">
 <!-- Language Switcher -->
 <p align="center">
-  <img src="https://img.shields.io/badge/all languages-Active-2ea44f?style=plastic&logo=googletranslate&logoColor=white" alt="Russian">
+  <img src="https://img.shields.io/badge/all languages-2ea44f?style=plastic&logo=googletranslate&logoColor=white" alt="Russian">
 <br>
 <div align="center">
 
