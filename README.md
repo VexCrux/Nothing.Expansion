@@ -78,9 +78,9 @@
 ### 🛡️ VirusTotal Verification / Проверка VirusTotal
 
 <p align="center">
-  <a href="https://www.virustotal.com/gui/file/bb945d041f6ebe526538a072e08ac0731501aa68b4d37f2fc140996a69686ffd/detection">
-    <img src="https://img.shields.io/badge/VirusTotal-Safe_0/64_v0.0.8-FB542B?style=plastic&logo=virustotal&logoColor=white" alt="VirusTotal Scan">
-  </a>
+<a href="https://www.virustotal.com/gui/file/bb945d041f6ebe526538a072e08ac0731501aa68b4d37f2fc140996a69686ffd/detection">
+    <img src="https://img.shields.io/badge/VirusTotal-Safe_0/64_v0.0.8-2ea44f?style=plastic&logo=virustotal&logoColor=white" alt="VirusTotal Scan">
+</a>
 </p>
 
 > [!NOTE]
