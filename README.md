@@ -58,9 +58,41 @@
 ## ⚠️ Disclaimer / Предупреждение
 
 > [!WARNING]
-> **EN:** This extension is built **exclusively** for privacy protection, digital fingerprint management, and network traffic analysis. **Always use official builds from this repository.**
+> **EN:** This extension is built **exclusively** for privacy protection and fingerprint management. **Only use official builds from this repository.**
 >
-> **RU:** Расширение создано **исключительно** для защиты конфиденциальности, управления цифровыми отпечатками и анализа сетевого трафика. **Используйте только официальные сборки из этого репозитория.**
+> **RU:** Расширение создано **исключительно** для защиты конфиденциальности и управления цифровыми отпечатками. **Используйте только официальные сборки из этого репозитория.**
+
+---
+
+### 🔒 Transparency & Security / Прозрачность и безопасность
+
+**Everything is open and verifiable / Всё открыто и проверяемо:**
+
+| What / Что | Details / Детали |
+|------------|------------------|
+| **Open Source Code** | Full code available on GitHub for anyone to audit | Полный код доступен на GitHub для любого аудита |
+| **No Data Collection** | Extension does NOT collect any personal data or usage statistics | Расширение НЕ собирает никаких личных данных или статистики использования |
+| **No External Calls** | Zero external API requests — all processing happens locally in your browser | Никаких внешних API-запросов — вся обработка происходит локально в браузере |
+| **VirusTotal Scanned** | All builds are verified clean (0/64 detections) | Все сборки проверены на чистоту (0/64 обнаружений) |
+
+> **EN:** Nothing cannot spy on you. The code is public — inspect it yourself. All builds are virus-free and verified.
+>
+> **RU:** Nothing не может подглядывать за вами. Код публичный — проверьте его сами. Все сборки без вирусов и проверены.
+
+---
+
+### 🛡️ Why You Can Trust This / Почему этому можно доверять
+
+| Reason / Причина | Explanation / Объяснение |
+|------------------|-------------------------|
+| **No Closed Parts** | No hidden code, no obfuscated scripts, no proprietary blobs | Никакого скрытого кода, нет обфусцированных скриптов, нет проприетарных компонентов |
+| **Self-Audit Friendly** | Any developer can build it themselves and compare hashes | Любой разработчик может собрать его самостоятельно и сравнить хеши |
+| **Public Verification** | VirusTotal scans available for every release | Публичная проверка VirusTotal доступна для каждого релиза |
+| **Local Only** | Your data never leaves your device | Ваши данные никогда не покидают ваше устройство |
+
+> **EN:** If you doubt anything — compile the code yourself and verify. No backdoors, no tracking, no lies.
+>
+> **RU:** Если сомневаетесь — соберите код самостоятельно и проверьте. Никаких бэкдоров, слежки, лжи.
 
 ## ✨ Features / Возможности
 
