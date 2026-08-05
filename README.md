@@ -103,9 +103,15 @@
 >
 > **RU:** Если сомневаетесь — скомпилируйте код самостоятельно и сравните хеши. Никаких бэкдоров, слежки или обмана.
 
-<span style="background: linear-gradient(90deg, #0138b7, #5372e0); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.5em;">✨ Features / Возможности</span>
+<div align="left">
+  <span style="background: linear-gradient(90deg, #0138b7, #5372e0); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; font-size: 32px; font-weight: 800;">✨ Features / Возможности</span>
+</div>
 
-📊 <span style="background: linear-gradient(90deg, #4285F4, #FB542B); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Traffic Monitor</span> — Мониторинг трафика в реальном времени
+<div align="left" style="margin-top: 16px;">
+  <span style="font-size: 22px;">📊</span>
+  <span style="background: linear-gradient(90deg, #4285F4, #FB542B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; font-size: 22px; font-weight: 700;">Traffic Monitor</span>
+  <span style="font-size: 18px; color: #8b949e;"> — Мониторинг трафика в реальном времени</span>
+</div>
 
 > Встроенная панель статистики по активной вкладке с детальными метриками.
 
