@@ -103,9 +103,11 @@
 >
 > **RU:** Если сомневаетесь — скомпилируйте код самостоятельно и сравните хеши. Никаких бэкдоров, слежки или обмана.
 
-## ✨ Features / Возможности
+## ✨ <span style="background: linear-gradient(90deg, #3d53d7, #5372e0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Features / Возможности</span>
 
-### 📊 Traffic Monitor — Мониторинг трафика в реальном времени
+---
+
+### 📊 <span style="color: #4285F4;">Traffic Monitor</span> — <span style="color: #5372e0;">Мониторинг трафика в реальном времени</span>
 
 > Встроенная панель статистики по активной вкладке с детальными метриками.
 
