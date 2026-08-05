@@ -30,7 +30,11 @@
     <img src="https://img.shields.io/badge/@VexCrux-3d53d7?style=plastic&logo=github&logoColor=white" alt="@VexCrux">
   </a>
   <a href="https://steamcommunity.com/profiles/76561199475056100/">
-    <img src="https://img.shields.io/badge/@My Steam-1b2838?style=plastic&logo=steam&logoColor=white" alt="@VexCrux">
+    <img src="https://img.shields.io/badge/My%20Steam-1b2838?style=plastic&logo=steam&logoColor=white" alt="Steam">
+  </a>
+  <br><br>
+  <a href="https://www.virustotal.com/gui/file/bb945d041f6ebe526538a072e08ac0731501aa68b4d37f2fc140996a69686ffd/detection">
+    <img src="https://img.shields.io/badge/Clean_100%-2ea44f?style=plastic&logo=virustotal&logoColor=white" alt="VirusTotal Clean">
   </a>
 </p>
 
