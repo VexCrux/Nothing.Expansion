@@ -58,41 +58,50 @@
 ## ⚠️ Disclaimer / Предупреждение
 
 > [!WARNING]
-> **EN:** This extension is built **exclusively** for privacy protection and fingerprint management. **Only use official builds from this repository.**
+> **EN:** This extension is built exclusively for privacy protection and digital fingerprint management. **Only use official builds from this repository.**
 >
-> **RU:** Расширение создано **исключительно** для защиты конфиденциальности и управления цифровыми отпечатками. **Используйте только официальные сборки из этого репозитория.**
+> **RU:** Расширение создано исключительно для защиты конфиденциальности и управления цифровыми отпечатками. **Используйте только официальные сборки из этого репозитория.**
 
 ---
 
 ### 🔒 Transparency & Security / Прозрачность и безопасность
 
-**Everything is open and verifiable / Всё открыто и проверяемо:**
-
-| What / Что | Details / Детали |
-|------------|------------------|
-| **Open Source Code** | Full code available on GitHub for anyone to audit | Полный код доступен на GitHub для любого аудита |
-| **No Data Collection** | Extension does NOT collect any personal data or usage statistics | Расширение НЕ собирает никаких личных данных или статистики использования |
-| **No External Calls** | Zero external API requests — all processing happens locally in your browser | Никаких внешних API-запросов — вся обработка происходит локально в браузере |
-| **VirusTotal Scanned** | All builds are verified clean (0/64 detections) | Все сборки проверены на чистоту (0/64 обнаружений) |
-
-> **EN:** Nothing cannot spy on you. The code is public — inspect it yourself. All builds are virus-free and verified.
->
-> **RU:** Nothing не может подглядывать за вами. Код публичный — проверьте его сами. Все сборки без вирусов и проверены.
+| Feature / Функция | EN Description / Описание на английском | RU Описание / Описание на русском |
+|-------------------|----------------------------------------|-----------------------------------|
+| **Open Source Code** | Full source code is publicly available on GitHub for independent audit | Полный исходный код доступен на GitHub для независимого аудита |
+| **No Data Collection** | Extension does NOT collect any personal data or track usage statistics | Расширение НЕ собирает никаких личных данных и не отслеживает статистику использования |
+| **No External Calls** | Zero external API requests — all processing happens locally in your browser | Нулевые внешние запросы API — вся обработка происходит локально в вашем браузере |
+| **Privacy First** | No analytics, no telemetry, no "phone-home" behavior | Никакой аналитики, телеметрии или отправки данных на сервер |
 
 ---
 
-### 🛡️ Why You Can Trust This / Почему этому можно доверять
+### 🛡️ VirusTotal Verification / Проверка VirusTotal
 
-| Reason / Причина | Explanation / Объяснение |
-|------------------|-------------------------|
-| **No Closed Parts** | No hidden code, no obfuscated scripts, no proprietary blobs | Никакого скрытого кода, нет обфусцированных скриптов, нет проприетарных компонентов |
-| **Self-Audit Friendly** | Any developer can build it themselves and compare hashes | Любой разработчик может собрать его самостоятельно и сравнить хеши |
-| **Public Verification** | VirusTotal scans available for every release | Публичная проверка VirusTotal доступна для каждого релиза |
-| **Local Only** | Your data never leaves your device | Ваши данные никогда не покидают ваше устройство |
+<p align="center">
+  <a href="https://www.virustotal.com/gui/file/bb945d041f6ebe526538a072e08ac0731501aa68b4d37f2fc140996a69686ffd/detection">
+    <img src="https://img.shields.io/badge/VirusTotal-Safe_0/64_v0.0.8-FB542B?style=plastic&logo=virustotal&logoColor=white" alt="VirusTotal Scan">
+  </a>
+</p>
 
-> **EN:** If you doubt anything — compile the code yourself and verify. No backdoors, no tracking, no lies.
+> [!NOTE]
+> **EN:** This scan is for **version 0.0.8 only**. The hash is verified publicly on VirusTotal — 0/64 detections means NO antivirus flagged this file as malicious.
 >
-> **RU:** Если сомневаетесь — соберите код самостоятельно и проверьте. Никаких бэкдоров, слежки, лжи.
+> **RU:** Этот скан относится **только к версии 0.0.8**. Хэш публично подтверждён на VirusTotal — 0/64 обнаружений означает, что НИ ОДИН антивирус не пометил этот файл как вредоносный.
+
+---
+
+### ✅ Why You Can Trust This / Почему этому можно доверять
+
+| Reason / Причина | Explanation / Пояснение |
+|------------------|-------------------------|
+| **Nothing Hidden** | No closed parts, no obfuscated scripts, no proprietary code | Ничего скрытого — нет закрытых частей, обфусцированных скриптов или проприетарного кода |
+| **Build It Yourself** | Anyone can compile from source and verify the hashes | Любой может скомпилировать из исходного кода и проверить хеши |
+| **Local Processing** | Your data never leaves your device — no servers involved | Ваши данные никогда не покидают ваше устройство — никаких серверов |
+| **Public Proof** | VirusTotal scans available for every release | Сканы VirusTotal доступны для каждого релиза |
+
+> **EN:** If you have doubts — compile the code yourself and compare hashes. No backdoors, no tracking, no lies.
+>
+> **RU:** Если сомневаетесь — скомпилируйте код самостоятельно и сравните хеши. Никаких бэкдоров, слежки или обмана.
 
 ## ✨ Features / Возможности
 
